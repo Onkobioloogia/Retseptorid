@@ -1,0 +1,5 @@
+library(slidify)
+setwd("~/Dropbox/Onkobioloogia/")
+author("Retseptorid")
+setwd("~/Dropbox/Onkobioloogia/Retseptorid/")
+publish(repo="Retseptorid", user="tpall")
