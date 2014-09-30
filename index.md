@@ -91,8 +91,11 @@ Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
 Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 
+--- .segue .dark .nobackground
+## Kasvufaktorite-retseptorite paradigma
+
+
 ---
-## Paradigma
 
 <q>Hulkraksete organismide (*Metazoa*) rakkude ellujäämine, kasv ja jagunemine sõltub rakuvälistest signaalidest.</q>
 
@@ -179,7 +182,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Inimesel siiski Src-i mutatsioone (C-terminaalne trunkatsioon) leitud ainult väiksel osal kaugele arenenud soolekasvajatel. Soolekasvajates ei esine ka c-Src-i amplifikatsioone (TCGA).
 
 ---
-# v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
+## v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
 
 ![](http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif)
 
@@ -216,14 +219,124 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 
 <img src="http://themedicalbiochemistrypage.org/images/rtk-types.png" alt="Drawing" style="width: 500px;"/>
 
+---- &twocol
+## RTK aktivatsoon
+
+***=left
+
+Klassikaliselt toimub see läbi dimeerse ligandi (kasvufaktori) vahendatud retseptori dimerisatsiooni ja sellele järgneva aktivatsiooni.
+
+Näiteks: KIT, VEGFR.
+
+[HER2 aktivatsioon](http://youtu.be/nXtKboH2S38?t=11s)
+
+***=right
+
+![](http://yxsj.baiduyy.com/whole/image/chapter15/15.22.jpg)
+
+--- &twocol
+## RTK dimerisatsioon: 4 põhilist moodust
+
+***=right
+
+- TrkA: ligand vahendatud dimerisatsioon, retseptorid oma vahel ei interakteeru.
+- KIT: ligand vahendatud dimeer, retseptorid seostuvad omavahel otseselt.
+- FGFR: mitmed kontaktid reseptori, ligandi ja hepariini vahel.
+- EGFR/ErbB perekond: ligandid indutseerivad retseptori dimerisatsiooni, kuid ise ei interakteeru. 
+
+***=left
+
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914105/bin/nihms219829f2.jpg)
+
+--- bg:gray
+
+<q>Kõik õnnelikud perekonnad on üksteise sarnased, iga õnnetu perekond on isemoodi õnnetu.</q>
+
+
+
+**Lev Tolstoi**
+
+--- 
+## RTK kinaasse domääni aktivatsioon
+
+- **Kõigi retseptorite kinaasi domäänid (TKD) koosnevad C-terminaalsest ja N-terminaalsest osast ja aktivatsioonilingust**.
+- Aktiveeritud olekus on erinevate retseptorite TKD struktuurid sarnased.
+- Inaktiivsed domäänid on aga retseptoritel erinevad, peegldades regulatoorset mitmekesisust
+      - autoinhibitsioon läbi aktivatsioonilingu,
+      - jukstamembranne autoinhibitsioon,
+      - C-terminaalne autoinhibitsioon.
+- Autoinhibitsioon toimib molekuli siseselt (*cis*).
+- Retseptori aktivatsioonil toimub domääni vabastamine autoinhibitoorsest interaktsioonist.
+
+
 ---
-### Glioomid sekreteerivad ja sheerivad mutantset retseptorit
+## Autoinhibitsioon läbi aktivatsioonilingu
 
-- Glioma cells expressing EGFRvIII transferred this errant receptor to nonexpressing cells via microvesicles—small plasma membrane buds. 
-- The microvesicles were produced in abundance by the mutant expressing cells and were widely taken up by receptor-negative cells. 
-- Within 24 hours, these recipient cells had increased receptor-triggered downstream signaling and could form twice as many colonies in agar.
+Insuliini retseptor, FGFR
 
-![egfrviii](http://jcb.rupress.org/content/181/4/570.1/embed/graphic-1.gif)
+- Insuliini retseptor: **aktivatsioonilingu** türosiin-1162 (Y1162) istub aktiivsaidis ja selle  (pluss veel 2 Tyr) **trans-fosforüleerimine** avab aktiivsaidi ja aktiveerib kinaasi.
+- FGFR1: aktivatsiooniling blokeerib substraadi sidumise saidi, muidu aktivatsioon sarnane.  
+
+---
+## Jukstamembranne autoinhibitsioon
+
+KIT, PDGFR, FLT3
+
+- Jukstamembraansed (membraani lähedased) järestused interakteeruvad kinaasse domääni erinevate piirkondadega, kaasa arvatud aktivatsiooniling.
+- Retseptori dimeriseerumisel trans-fosforüleeritakse jukstamembraanses osas asuvad türosiinijäägid.
+- KIT ja PDGFR mutatsioonid vähkides jukstamembraanses piirkonnas rikuvad autoinhibitoorsed interaktsioonid ja viivad konstitutiivselt aktiivse retseptori tekkeni. 
 
 ----
-## Receptor activation
+## C-terminaalne autoinhibitsioon
+
+Tie2
+
+- Kinaasse domääni C-terminaalne saba blokeerib substraadi sidumise saidi.
+- C-terminaalse saba trans-fosforüleerimine vabastab aktiivsaidi.
+
+---
+## TKD aktivatsioonil toimib allosteeriline mehhanism
+
+- Autoinhibeeritud TKD nn. "hingavad" ehk inhibitsioon pole absoluutne kuigi tugevas tasakaalus inhibeeritud seisundi poole.
+- Selline madal aktiivsus on piisav, et viia läbi esialgne trans-fosforüleerimine kui kaks retseptorit dimeriseeruvad.
+- Lisaks tekivad retseptorite dimerisatsioonil allosteerilised efektid mis mõjutavad aktiivsaiti.
+
+- EGFR/ErbB perekonna retseptorite aktivatsioonil trans-fosforüleerimist ei toimu.
+    - Dimerisatsioonil, ühe retseptori C-domään ("Aktivaator") seostub teise retseptori N-domääniga ("Ressiiver") ning põhustab allosteerilise mehhanismi kaudu Ressiiver kinaasi konformatsioonimuutuse, mis vabastab monomeeris esineva cis-autoinhibitsiooni.
+- Väikserakulises kopsuvähis esinevad onkogeensed mutatsioonid mis vabastavad EGFR-i cis-autoinhibitsioonist ja põhustavad ligand-sõltumatu aktivatsiooni. 
+
+<p style="font-size:12px"> Allosteric, of or involving a change in the shape and activity of an enzyme that results from molecular binding with a regulatory substance at a site other than the enzymatically active one. </p>
+
+---
+## Muteerunud kasvufaktori retseptor võib toimida onkogeenina
+
+- 1984. aastal avastati, et EGF retseptori (erbB) valgujärestus on homoloogne linnu erütroblastoosi viiruse onkogeeniga v-ErbB.
+
+![](v-erb.jpg)
+<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+
+
+**N-terminaalne deletsioon põhustab v-ErbB ligand sõltumatu konstitutiivse aktivatsiooni.**
+
+---
+## Mutatsioonid kasvufaktorite retseptorites põhjustavad ligand-sõltumatut aktivatsiooni
+
+![](gf-muts.jpg)
+
+<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+
+
+--- &twocol
+## Kasvajarakud sekreteerivad autokriinseid kasvufaktoreid
+
+***=left
+
+<img src="autokriin.jpg" alt="Drawing" style="width: 460px;"/>
+
+Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane) ja selle ligandi $TGF-\alpha$ (roheline).
+
+<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+
+***=right
+
+<img src="autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
