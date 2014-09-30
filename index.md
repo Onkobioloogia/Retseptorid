@@ -55,16 +55,166 @@ strong {
 }
 </style>
 
-## Read-And-Delete
+--- .segue .dark .nobackground
+## Recap
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+--- bg:pink
+## Onkogeen
+- **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada
+- Vähkides on onkogeen muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
+- **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
 
---- .class #id 
+--- bg:pink
+## Onkogeenide aktivatsioon
 
-## Slide 2
+- **Onkogeenide aktivatsioon** on tingitud geneetilistest mutatsioonidest proto-onkogeenides:
+    - Regulatoorsed (amplifikatsioonid, deletsioonid);
+    - Struktuursed (mutatsioonid, kromosomaalsed aberratsioonid).
+- Sellised mutatsioonid viivad muutusteni proto-onkogeeni ekspressioonis või struktuuris. 
+
+---- bg:pink
+## Retroviraalsete onkogeenide homoloogid inimese kasvajates
+
+Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
+-------|------|----------|----------|----------------------------
+Rousi sarkoom | kana | src | mitte-retseptor TK | käärsoole vähk
+Abelsoni leukeemia | hiir | abl | mitte-retseptor TK | CML
+Lindude erütroblastoos | hiir | erbB | retseptor TK | mao-, kopsu- ja rinnavähk
+McDonough' kassi sarkoom | kass | fms | retseptor TK | AML
+Hardy-Zuckerman kassi viirus | kass | kit | retseptor TK | GI strooma vähk
+Hiire sarkoom 3611 | hiir | raf | Ser/Thr kinaas | kusepõie kartsinoom
+*Simian sarcoma* | ahv | sis | kasvufaktor (PDGF) | erinevad vähid
+Harvey' sarkoom | hiir/rott | H-ras | väike G-valk | kusepõie kartsinoom
+Kirsten'i sarkoom | hiir/rott | K-ras | väike G-valk | erinevad vähid
+Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
+Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
+Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 
+---
+## Paradigma
+
+<q>Hulkraksete organismide (*Metazoa*) rakkude ellujäämine, kasv ja jagunemine sõltub rakuvälistest signaalidest.</q>
+
+--- &twocol
+# Wnt/β-kateniin signalisatsioon reguleerib rakkude jagunemist krüptis ja tagab soole mukoosa homeostaasi
+
+***=left
+
+- Käärsoole epiteel koosneb ühest kihist kolumnaarse epiteeli rakkudest (*enterotsüüdid*) ja moodustab iseloomulikud sõrmjad sopistised allolevasse sidekoesse (*lamina proper*).
+- Sõrmjate sopististe põhjas asuvad **soole krüptid**.
+- Igas krüptis asub 6 tüvirakku ja Panethi rakke (peensool) või karikrakke (käärsool). 
+- Rakkude jagunemine toimub ainult krüptis ja diferentseeruvad rakud liiguvad krüptist välja. 
+- **Krüpti ümbritsevad strooma- ja  Panethi rakud sekreteerivad erinevaid Wnt signaaliraja ligande.**
+
+***=right
+
+<img src="http://www.sciencemag.org/content/307/5717/1904/F1.large.jpg" alt="Wnt" style="width: 400px;"/>
+
+--- .segue .dark .nobackground
+## Türosiin kinaasid signalisatsioonis
 
 
+--- &twocol
+## Src kinaasse aktiivsuse avastamine
+
+***=left
+
+![ppsrc](pp60src.png)
+
+<p style="font-size:12px">Proc Natl Acad Sci USA 75:1567, 1978. M. S. Collett and R. L. Erikson: Protein kinase activity associated with the avian sarcoma virus src gene product.</p>
+
+***=right
+
+- Src oli esimene onkogeen mis avastati.
+- Src on selgroogsetel väga konserveerunud valk ja seega mitte eriti immuunogeenne.
+- v-Src-i ära tundvad antikehad saadi siiski imetaja troopse RSV-ga indutseeritud kasvajat kandvalt küülikult, 1977. aastal.
+- Src kinaasne aktiivsus avastati kui tema immuuno-sadestus reaktsiooni lisati $[\gamma^{32}P]$ ATP-d (kahtlustati, et Src võiks olla kinaas).
+- Raporteeriti, et Src fosforüleerib treoniine.
+
+---
+## Src fosforüleerib türosiine
+
+- Enne Src-i oli teada, et kinaasid fosforüleerivad valkudes seriine ja treoniine.
+- 1979. aastal uuris Tony Hunter polüoomiviiruse *middle T* antigeeni ja peale Src-i kinaasse aktiivsuse avastamist tegi ta katse, kas ka middle-T võiks olla kinaas - oli!
+- Saamaks teada, mis middle-T aminohappeid fosforüleeriti tegi ta õhukese kihi kromatograafiat kasutades fosfoseriini ja -treoniini markeritena.
+- Ta kasutas laiskusest oma vana foreesipuhvrit, mille pH oli seistes tõusnud üle algse 1.9.
+- Selgus, et seriini ega treoniini ei fosforüleerita, vaid mingit muud aminohapet, mis osutus hiljem türosiiniks (sisaldab hüdroksüülrühma).
+- Sama lähenemist ("vanandatud"" puhver lahutab treoniini türosiinist) kasutades testis ta ka Src-i kinaasset spetsiifilisust.
+
+<img src="pTyr.jpg" alt="pTyr" style="width: 400px;"/>
+<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+
+
+--- &twocol
+## Src toimib tsütoplasmaatilise türosiin kinaasina
+
+***=left
+
+- Kinaasne domään (SH1 - *Src homology 1*)
+- SH2, fosfotürosüül peptiide siduv domään
+    - avastati kui Src homoloogia Fujinami sarkoomi viiruse **fes** onkovalgus (ka türosiin kinaas); 
+- SH3, proliinirikkaid järjestusi siduv domään
+    - avastati kui CT10 linnu sarkoomiviiruse onkogeen **crk** (nimetati SH2 domääni avastaja - Hanafusa labori kodulinna, New York'i, auks kui '*crack*'). Crk on funktsionaalselt **adapter molekul**.
+
+
+***=right
+
+<img src="http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f3.gif" alt="Drawing" style="width: 460px;"/>
+
+--- &twocol
+## Kinaasidel on palju rakulisi substraate
+
+***=left
+
+<img src="http://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jprobs/2008/jprobs.2008.7.issue-9/pr800198w/production/images/medium/pr-2008-00198w_0002.gif" alt="Drawing" style="width: 360px;"/>
+
+SRCil kirjeldatud rohkem kui 50 valgulist substraati
+
+***=right
+
+- Src-i aktivatsioon vabastab SH2 ja SH3 domäänid
+
+
+---
+## Türosiini kinoom
+
+- Hulkraksete organismide genoomis esindavad türosiin kinaasid ~10–15% kõigist valgu kinaasi geenidest.
+- *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist.
+- Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3).
+
+---
+## EGF
+
+EGF-i avastamisel leiti et
+- EGF omas proliferatsiooni stimuleerivat toimet erinevatele epiteliaalset päritolu rakkudele.
+- Kuid see toime esines ainult siis kui EGF seostus rakule, viidates rakupinna retseptori olemasolule.
+
+---
+## EGFR aktiveerib SRC-i
+
+
+--- &twocol
+## Türosiin kinaasi retseptorite struktuur
+
+***=left
+
+- Imetajatel ~20 klassi TKR.
+- Tsütoplasmaatiline domään on konserveerunud.
+- Suur varieeruvus rakuvälises domäänis.
+
+***=right
+
+<img src="http://themedicalbiochemistrypage.org/images/rtk-types.png" alt="Drawing" style="width: 500px;"/>
+
+---
+### Glioomid sekreteerivad ja sheerivad mutantset retseptorit
+
+- Glioma cells expressing EGFRvIII transferred this errant receptor to nonexpressing cells via microvesicles—small plasma membrane buds. 
+- The microvesicles were produced in abundance by the mutant expressing cells and were widely taken up by receptor-negative cells. 
+- Within 24 hours, these recipient cells had increased receptor-triggered downstream signaling and could form twice as many colonies in agar.
+
+![egfrviii](http://jcb.rupress.org/content/181/4/570.1/embed/graphic-1.gif)
+
+----
+## Receptor activation
