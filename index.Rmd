@@ -178,6 +178,11 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Transformeeriv aktiivsus (stimuleerib rakkude jagunemist) Src-il ilmselt seotud PI3K-Akt aktivatsiooniga.
 - Inimesel siiski Src-i mutatsioone (C-terminaalne trunkatsioon) leitud ainult väiksel osal kaugele arenenud soolekasvajatel. Soolekasvajates ei esine ka c-Src-i amplifikatsioone (TCGA).
 
+---
+# v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
+
+![](http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif)
+
 
 ---
 ## Türosiini kinoom
@@ -185,6 +190,9 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Hulkraksete organismide genoomis esindavad türosiin kinaasid ~10–15% kõigist valgu kinaasi geenidest.
 - *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist.
 - Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3).
+- Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfotreoniin ja fosfoseriin; fosfotürosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest.
+  phosphoamino acids.
+
 
 ---
 ## Esimene TKR mis avastati oli EGF retseptor
@@ -194,7 +202,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - EGF retseptor isoleeriti emaka epidermoidsest kasvajast kus see oli tugevalt üle-ekspresseeritud. 
 
 ![](egfr.jpg)
-
+<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
 
 --- &twocol
 ## Türosiin kinaasi retseptorite struktuur
