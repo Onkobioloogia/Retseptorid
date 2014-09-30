@@ -191,7 +191,6 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist.
 - Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3).
 - Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfotreoniin ja fosfoseriin; fosfotürosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest.
-  phosphoamino acids.
 
 
 ---
