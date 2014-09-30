@@ -152,9 +152,9 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ***=left
 
 - Kinaasne domään (SH1 - *Src homology 1*)
-- SH2, fosfotürosüül peptiide siduv domään
-    - avastati kui Src homoloogia Fujinami sarkoomi viiruse **fes** onkovalgus (ka türosiin kinaas); 
-- SH3, proliinirikkaid järjestusi siduv domään
+- **SH2**, fosfotürosüül peptiide siduv domään
+    - avastati kui Src homoloogia Fujinami sarkoomi viiruse **fes** onkovalgus (tsütoplasma türosiin kinaas); 
+- **SH3**, proliinirikkaid järjestusi siduv domään
     - avastati kui CT10 linnu sarkoomiviiruse onkogeen **crk** (nimetati SH2 domääni avastaja - Hanafusa labori kodulinna, New York'i, auks kui '*crack*'). Crk on funktsionaalselt **adapter molekul**.
 
 
@@ -173,7 +173,10 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 
 ***=right
 
-- Src-i aktivatsioon vabastab SH2 ja SH3 domäänid
+- Src-i aktivatsioon vabastab SH2 ja SH3 domäänid inhibitsioonist ja võimaldab Src-il läbi nende domäänide seostuda teiste valkudega (Src-i substraadid).
+- Enamus Src-i substraate on seotud adhesiooni ja migratsiooniga.
+- Transformeeriv aktiivsus (stimuleerib rakkude jagunemist) Src-il ilmselt seotud PI3K-Akt aktivatsiooniga.
+- Inimesel siiski Src-i mutatsioone (C-terminaalne trunkatsioon) leitud ainult väiksel osal kaugele arenenud soolekasvajatel. Soolekasvajates ei esine ka c-Src-i amplifikatsioone (TCGA).
 
 
 ---
