@@ -187,14 +187,13 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3).
 
 ---
-## EGF
+## Esimene TKR mis avastati oli EGF retseptor
 
-EGF-i avastamisel leiti et
 - EGF omas proliferatsiooni stimuleerivat toimet erinevatele epiteliaalset päritolu rakkudele.
 - Kuid see toime esines ainult siis kui EGF seostus rakule, viidates rakupinna retseptori olemasolule.
+- EGF retseptor isoleeriti emaka epidermoidsest kasvajast kus see oli tugevalt üle-ekspresseeritud. 
 
----
-## EGFR aktiveerib SRC-i
+![](egfr.jpg)
 
 
 --- &twocol
