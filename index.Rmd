@@ -392,3 +392,16 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 ![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
 
 <p style="font-size:12px">doi:10.1038/nature11252</p>
+
+---
+## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
+
+- Jak perekond (*just another kinase; Janus kinase*), seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus (kasvuhormooni retseptor, EPO-R, IFN-R).
+- TGF-beta retseptorid (NB! seriin-treoniin kinaasse aktiivsusega), aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise.
+- Notch retseptorid, parakriinse ligandi sidumisel toimub reteptori proteolüütiline aktivatsioon ja Notch ICD (*intracellular domain*) transporditakse tuuma, kus toimib TF-na.
+- Hedgehog signaalirada, Patched-Smoothened-Gli
+- Wnt signalisatsoon, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina.
+- G-valgulised retseptorid (genoomis 800 geeni). Mitogens nagu trombiin, lüsofosfatiid hape (LPA), gastrin-releasing peptide (GRP), endoteliin ja prostaglandiinid stimuleerivad rakkude jagunemist läbi oma spetsiifiliste GPCR-ide.
+
+---
+
