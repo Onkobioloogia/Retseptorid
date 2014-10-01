@@ -374,9 +374,17 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 <img src="autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
 
 
----
+--- &twocol
 ## IGF2 amplifikatsioon käärsoole kasvajates
 
-**IGF2 geeni sisaldav genoomipiirkond on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides.**
+***=left
+
+- IGF2 geeni sisaldav genoomipiirkond 11p15.5 on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides. 
+- Lisaks on IGF2 üle ekspresseeritud ka muudel põhjustel. 
+- IGF2 või IRS2 (*Insulin receptor substrate 2*-valk mis vahendab insuliini retseptori signaliseerimist PI3K ratta) üleekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
+
+***=right
 
 ![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
+
+<p style="font-size:12px">doi:10.1038/nature11252</p>
