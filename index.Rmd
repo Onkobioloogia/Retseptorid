@@ -402,6 +402,16 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 - **Hedgehog signaalirada**, Patched-Smoothened-Gli, basaalrakuline kartsinoom.
 - **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
 
+---
+## Wnt ja TGF-beta radade mutatsioonid käärsoole kasvajates
+
+- Wnt raja retseptor **Frizzled (FZD10)** ~30% juhtudest üle-ekspresseeritud. 
+- **TGF-beta ja Aktiviini** retseptorid muteeritud vastavalt 60% ja 80% juhtudest.
+<p style="font-size:12px">doi:10.1038/nature11252</p>
+
+
+![crc](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f4.2.jpg)
+
 
 --- &twocol
 ## GPCR
