@@ -428,10 +428,15 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 <p style="font-size:12px">doi:10.1038/nature11252</p>
 
 ---
-# Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
+## Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
+
 
 - Kaposi's sarcomas produce PDGF, TGF-β, IGF-1, angiogenin 2 (Ang2), CCL8, CXCL11, endothelin     and express their receptors. 
 - At the same time, the causal agent of this disease, the human herpesvirus-8 (HHV-8) produces vIL-6 and macrophage inflammatory protein (vMIP).
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/3/3a/Kaposis_Sarcoma_Lesions.jpg" alt="Drawing" style="width: 400px;"/>
+
+<p style="font-size:12px">Pilt: wikipedia </p>
 
 ---
 ## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
