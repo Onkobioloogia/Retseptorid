@@ -396,12 +396,23 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 ---
 ## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
 
-- Jak perekond (*just another kinase; Janus kinase*), seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus (kasvuhormooni retseptor, EPO-R, IFN-R).
-- TGF-beta retseptorid (NB! seriin-treoniin kinaasse aktiivsusega), aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise.
-- Notch retseptorid, parakriinse ligandi sidumisel toimub reteptori proteolüütiline aktivatsioon ja Notch ICD (*intracellular domain*) transporditakse tuuma, kus toimib TF-na.
-- Hedgehog signaalirada, Patched-Smoothened-Gli
-- Wnt signalisatsoon, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina.
-- G-valgulised retseptorid (genoomis 800 geeni). Mitogens nagu trombiin, lüsofosfatiid hape (LPA), gastrin-releasing peptide (GRP), endoteliin ja prostaglandiinid stimuleerivad rakkude jagunemist läbi oma spetsiifiliste GPCR-ide.
+- **Jak perekond** (*just another kinase; Janus kinase*), seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus (kasvuhormooni retseptor, EPO-R, IFN-R).
+- **TGF-beta retseptorid** (NB! seriin-treoniin kinaasse aktiivsusega), aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise.
+- **Notch retseptorid**, parakriinse ligandi sidumisel toimub reteptori proteolüütiline aktivatsioon ja Notch ICD (*intracellular domain*) transporditakse tuuma, kus toimib TF-na.
+- **Hedgehog signaalirada**, Patched-Smoothened-Gli, basaalrakuline kartsinoom.
+- **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina.
 
----
+
+--- &twocol
+## GPCR
+
+***=right
+
+- **G-valgulised retseptorid** (genoomis 800 geeni). Mitogens nagu trombiin, lüsofosfatiid hape (LPA), gastrin-releasing peptide (GRP), endoteliin ja prostaglandiinid stimuleerivad rakkude jagunemist läbi oma spetsiifiliste GPCR-ide. Munasarja vähi astsiit sisaldab palju LPA-d ja stimuleerib rakkude jagunemist ja kemoresistentsust. Munasarja vähkides on GPCR-id tihti üle-ekpresseeritud.
+
+***=left
+
+![gpcr](http://www.nature.com/nrm/journal/v9/n1/images/nrm2299-f1.jpg)
+<p style="font-size:12px">doi:10.1038/nrm2299</p>
+
 
