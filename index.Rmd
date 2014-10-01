@@ -347,13 +347,17 @@ Tie2
 
 <p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
 
----
-## RTK mutatsioonid mao adenokartsinoomis
+--- &twocol
+## RTK mutatsioonid mao adenokartsinoomides
 
-**Enamus muutusi RTK-s on seotud koopiaarvu muutustega. Lisaks ka sage VEGFA amplifikatsioon**
+***=right
+
+- Enamus muutusi RTK-s on seotud koopiaarvu muutustega. 
+- Lisaks ka sage VEGFA amplifikatsioon.
+
+***=left
 
 ![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170219/bin/nihms627842f5.jpg)
-
 
 <p style="font-size:12px">doi:10.1038/nature13480</p>
 
