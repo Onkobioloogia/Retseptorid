@@ -197,7 +197,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 
 
 ---
-## Esimene TKR mis avastati oli EGF retseptor
+## Esimene türosiinkinaas retseptor mis avastati oli EGF retseptor
 
 - EGF omas proliferatsiooni stimuleerivat toimet erinevatele epiteliaalset päritolu rakkudele.
 - Kuid see toime esines ainult siis kui EGF seostus rakule, viidates rakupinna retseptori olemasolule.
@@ -207,7 +207,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 <p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
 
 --- &twocol
-## Türosiin kinaasi retseptorite struktuur
+## Türosiinkinaas retseptorite struktuur
 
 ***=left
 
@@ -218,6 +218,20 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 ***=right
 
 <img src="http://themedicalbiochemistrypage.org/images/rtk-types.png" alt="Drawing" style="width: 500px;"/>
+
+---
+# TK retseptorid inimese kasvajates
+
+Retseptor | Ligand | Mutatsioon | Vähitüüp
+----------|---------|------------|---------
+EGFR/ErbB1 | EGF, TGF-a | **üleekspressioon** | mitte väikserakuline kopsuvähk; rinna-, pea-ja kaela-, mao, käärsoole, söögitoru, eesnäärme, kusepõie, neeru, kõhunäärme, munasarja kartsinoomid; glioblastoom
+EGFR/ErbB1 |  | **ektodomääni deletsioon** | glioblastoom, kopsu- ja rinnakartsinoomid
+ErbB2/HER2/Neu | NRG, EGF | **üleekspressioon** | 30% rinnakartsinoomidest
+ErbB3,4 | erinevad | **üleekspressioon** | suuõõne lamerakuline kartsinoom
+Flt-3 | Flt3 ligand (FL) | **tandem tupliktsioon** | äge müelogeenne leukeemia
+Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
+Ret | GDNF? | **fuusion, punktmutatsioonid** | papillaarsed kilpnäärme kartsinoomid, endokriinsed neoplaasiad 2A ja 2B
+FGFR3 | FGF | **üleekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
 ---- &twocol
 ## RTK aktivatsoon
@@ -248,6 +262,12 @@ Näiteks: KIT, VEGFR.
 
 ![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914105/bin/nihms219829f2.jpg)
 
+---
+## EGFR dimeeri rakuvälise domääni ja TGF-a kompleks
+
+![](1mox.png)
+
+
 --- bg:gray
 
 <q>Kõik õnnelikud perekonnad on üksteise sarnased, iga õnnetu perekond on isemoodi õnnetu.</q>
@@ -255,6 +275,8 @@ Näiteks: KIT, VEGFR.
 
 
 **Lev Tolstoi**
+
+
 
 --- 
 ## RTK kinaasse domääni aktivatsioon
