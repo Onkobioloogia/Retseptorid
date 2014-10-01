@@ -329,6 +329,9 @@ Tie2
 
 <p style="font-size:12px"> Allosteric, of or involving a change in the shape and activity of an enzyme that results from molecular binding with a regulatory substance at a site other than the enzymatically active one. </p>
 
+--- .segue .dark .nobackground
+## RTK onkogeense aktivatsiooni mehhanisme
+
 ---
 ## Muteerunud kasvufaktori retseptor võib toimida onkogeenina
 
@@ -346,6 +349,20 @@ Tie2
 ![](gf-muts.jpg)
 
 <p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+
+---
+# TK retseptorid inimese kasvajates
+
+Retseptor | Ligand | Mutatsioon | Vähitüüp
+----------|---------|------------|---------
+EGFR/ErbB1 | EGF, TGF-a | **üle-ekspressioon** | mitte väikserakuline kopsuvähk; rinna-, pea-ja kaela-, mao, käärsoole, söögitoru, eesnäärme, kusepõie, neeru, kõhunäärme, munasarja kartsinoomid; glioblastoom
+EGFR/ErbB1 |  | **ektodomääni deletsioon** | glioblastoom, kopsu- ja rinnakartsinoomid
+ErbB2/HER2/Neu | NRG, EGF | **üle-ekspressioon** | 30% rinnakartsinoomidest
+ErbB3,4 | erinevad | **üle-ekspressioon** | suuõõne lamerakuline kartsinoom
+Flt-3 | Flt3 ligand (FL) | **tandem duplikatsioon** | äge müelogeenne leukeemia
+Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
+Ret | GDNF? | **fuusion, punktmutatsioonid** | papillaarsed kilpnäärme kartsinoomid, endokriinsed neoplaasiad 2A ja 2B
+FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
 --- &twocol
 ## RTK mutatsioonid mao adenokartsinoomides
