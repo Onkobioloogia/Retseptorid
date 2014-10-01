@@ -394,6 +394,23 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 
 <img src="autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
 
+---
+# Autokriinsed kasvufaktorid inimese vähkides
+
+Ligand | Retseptor | Vähk
+-------|------------|-----
+HGF | Met | endokriinsed kasvajad, invasiivsed rinna- ja kopsuvähid, osteosarkoom
+IGF2 | IGF-1R | käärsoole kasvajad
+IL-6 | IL6R | müeloom, pea-kaela lamerakuline kartsinoom
+IL-8 | IL8RA | kusepõie kartsinoom
+NRG | HER2/ErbB3 | munasarja kartsinoom
+PDGF-BB | PDGFR | osteosarkoom, glioom
+PDGF-C | PDGFR | Ewingi sarkoom
+PRL (prolaktiin) | PRL-R | rinna kartsinoom
+SCF | KIT | Ewingi sarkoom, väikeserakuline kopsu kartsinoom
+VEGF-A | VEGFR | neuroblastoom, eesnäärme kasvajad, Kaposi sarkoom
+TGF-a | EGFR | lamerakuline kopsuvähk, rinna- ja eesnäärme adenokartsinoom, kõhunäärme kasvaja, mesotelioom
+GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 --- &twocol
 ## IGF2 amplifikatsioon käärsoole kasvajates
@@ -409,6 +426,12 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 ![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
 
 <p style="font-size:12px">doi:10.1038/nature11252</p>
+
+---
+# Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
+
+- Kaposi's sarcomas produce PDGF, TGF-β, IGF-1, angiogenin 2 (Ang2), CCL8, CXCL11, endothelin     and express their receptors. 
+- At the same time, the causal agent of this disease, the human herpesvirus-8 (HHV-8) produces vIL-6 and macrophage inflammatory protein (vMIP).
 
 ---
 ## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
