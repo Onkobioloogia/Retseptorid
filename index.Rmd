@@ -347,6 +347,16 @@ Tie2
 
 <p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
 
+---
+## RTK mutatsioonid mao adenokartsinoomis
+
+**Enamus muutusi RTK-s on seotud koopiaarvu muutustega. Lisaks ka sage VEGFA amplifikatsioon**
+
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170219/bin/nihms627842f5.jpg)
+
+
+<p style="font-size:12px">doi:10.1038/nature13480</p>
+
 
 --- &twocol
 ## Kasvajarakud sekreteerivad autokriinseid kasvufaktoreid
@@ -362,3 +372,11 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 ***=right
 
 <img src="autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
+
+
+---
+## IGF2 amplifikatsioon käärsoole kasvajates
+
+**IGF2 geeni sisaldav genoomipiirkond on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides.**
+
+![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
