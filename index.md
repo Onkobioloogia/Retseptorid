@@ -400,7 +400,7 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 - **TGF-beta retseptorid** (NB! seriin-treoniin kinaasse aktiivsusega), aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise.
 - **Notch retseptorid**, parakriinse ligandi sidumisel toimub reteptori proteolüütiline aktivatsioon ja Notch ICD (*intracellular domain*) transporditakse tuuma, kus toimib TF-na.
 - **Hedgehog signaalirada**, Patched-Smoothened-Gli, basaalrakuline kartsinoom.
-- **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina.
+- **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
 
 
 --- &twocol
@@ -408,7 +408,10 @@ Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane
 
 ***=right
 
-- **G-valgulised retseptorid** (genoomis 800 geeni). Mitogens nagu trombiin, lüsofosfatiid hape (LPA), gastrin-releasing peptide (GRP), endoteliin ja prostaglandiinid stimuleerivad rakkude jagunemist läbi oma spetsiifiliste GPCR-ide. Munasarja vähi astsiit sisaldab palju LPA-d ja stimuleerib rakkude jagunemist ja kemoresistentsust. Munasarja vähkides on GPCR-id tihti üle-ekpresseeritud.
+- **G-valgulised retseptorid** (genoomis 800 geeni). 
+- Mitogeenid nagu trombiin, lüsofosfatiid hape (LPA), gastrin-releasing peptide (GRP), endoteliin ja prostaglandiinid stimuleerivad rakkude jagunemist läbi oma spetsiifiliste GPCR-ide. 
+- Munasarja vähi astsiit sisaldab palju LPA-d ja stimuleerib rakkude jagunemist ja kemoresistentsust.
+- G valgu kompleks ($\alpha$, $\beta$ ja $\gamma$ subühikud) aktiveerub seostudes retseptorile 
 
 ***=left
 
