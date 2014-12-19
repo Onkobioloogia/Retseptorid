@@ -58,13 +58,13 @@ strong {
 --- .segue .dark .nobackground
 ## Recap
 
---- bg:pink
+--- 
 ## Onkogeen
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada
 - Vähkides on onkogeen muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
 - **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
 
---- bg:pink
+--- 
 ## Onkogeenide aktivatsioon
 
 - **Onkogeenide aktivatsioon** on tingitud geneetilistest mutatsioonidest proto-onkogeenides:
@@ -72,7 +72,7 @@ strong {
     - Struktuursed (mutatsioonid, kromosomaalsed aberratsioonid).
 - Sellised mutatsioonid viivad muutusteni proto-onkogeeni ekspressioonis või struktuuris. 
 
----- bg:pink
+---- 
 ## Retroviraalsete onkogeenide homoloogid inimese kasvajates
 
 Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
@@ -92,6 +92,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 
 --- .segue .dark .nobackground
+
 ## Kasvufaktorite-retseptorite paradigma
 
 
