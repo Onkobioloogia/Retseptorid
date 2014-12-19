@@ -123,9 +123,9 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 ***=left
 
-![ppsrc](pp60src.png)
+![ppsrc](assets/img/pp60src.png)
 
-<p style="font-size:12px">Proc Natl Acad Sci USA 75:1567, 1978. M. S. Collett and R. L. Erikson: Protein kinase activity associated with the avian sarcoma virus src gene product.</p>
+<footer class="source">Proc Natl Acad Sci USA 75:1567, 1978. M. S. Collett and R. L. Erikson: Protein kinase activity associated with the avian sarcoma virus src gene product.</footer>
 
 ***=right
 
@@ -145,8 +145,8 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 - Selgus, et seriini ega treoniini ei fosforüleerita, vaid mingit muud aminohapet, mis osutus hiljem türosiiniks (sisaldab hüdroksüülrühma).
 - Sama lähenemist ("vanandatud"" puhver lahutab treoniini türosiinist) kasutades testis ta ka Src-i kinaasset spetsiifilisust.
 
-<img src="pTyr.jpg" alt="pTyr" style="width: 400px;"/>
-<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+<img src="assets/img/pTyr.jpg" alt="pTyr" style="width: 400px;"/>
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 
 --- &twocol
@@ -203,8 +203,8 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Kuid see toime esines ainult siis kui EGF seostus rakule, viidates rakupinna retseptori olemasolule.
 - EGF retseptor isoleeriti emaka epidermoidsest kasvajast kus see oli tugevalt üle-ekspresseeritud. 
 
-![](egfr.jpg)
-<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+![egfr](assets/img/egfr.jpg)
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 --- &twocol
 ## Türosiinkinaas retseptorite struktuur
@@ -234,6 +234,7 @@ Ret | GDNF? | **fuusion, punktmutatsioonid** | papillaarsed kilpnäärme kartsin
 FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
 ---- &twocol
+
 ## RTK aktivatsoon
 
 ***=left
@@ -249,6 +250,7 @@ Näiteks: KIT, VEGFR.
 ![](http://yxsj.baiduyy.com/whole/image/chapter15/15.22.jpg)
 
 --- &twocol
+
 ## RTK dimerisatsioon: 4 põhilist moodust
 
 ***=right
@@ -265,7 +267,7 @@ Näiteks: KIT, VEGFR.
 ---
 ## EGFR dimeeri rakuvälise domääni ja TGF-a kompleks
 
-![](1mox.png)
+![](assets/img/1mox.png)
 
 
 --- bg:gray
@@ -300,6 +302,7 @@ Insuliini retseptor, FGFR
 - FGFR1: aktivatsiooniling blokeerib substraadi sidumise saidi, muidu aktivatsioon sarnane.  
 
 ---
+
 ## Jukstamembranne autoinhibitsioon
 
 KIT, PDGFR, FLT3
@@ -309,6 +312,7 @@ KIT, PDGFR, FLT3
 - KIT ja PDGFR mutatsioonid vähkides jukstamembraanses piirkonnas rikuvad autoinhibitoorsed interaktsioonid ja viivad konstitutiivselt aktiivse retseptori tekkeni. 
 
 ----
+
 ## C-terminaalne autoinhibitsioon
 
 Tie2
@@ -317,6 +321,7 @@ Tie2
 - C-terminaalse saba trans-fosforüleerimine vabastab aktiivsaidi.
 
 ---
+
 ## TKD aktivatsioonil toimib allosteeriline mehhanism
 
 - Autoinhibeeritud TKD nn. "hingavad" ehk inhibitsioon pole absoluutne kuigi tugevas tasakaalus inhibeeritud seisundi poole.
@@ -327,9 +332,10 @@ Tie2
     - Dimerisatsioonil, ühe retseptori C-domään ("Aktivaator") seostub teise retseptori N-domääniga ("Ressiiver") ning põhustab allosteerilise mehhanismi kaudu Ressiiver kinaasi konformatsioonimuutuse, mis vabastab monomeeris esineva cis-autoinhibitsiooni.
 - Väikserakulises kopsuvähis esinevad onkogeensed mutatsioonid mis vabastavad EGFR-i cis-autoinhibitsioonist ja põhustavad ligand-sõltumatu aktivatsiooni. 
 
-<p style="font-size:12px"> Allosteric, of or involving a change in the shape and activity of an enzyme that results from molecular binding with a regulatory substance at a site other than the enzymatically active one. </p>
+<footer class="source"> Allosteric, of or involving a change in the shape and activity of an enzyme that results from molecular binding with a regulatory substance at a site other than the enzymatically active one. </footer>
 
 --- .segue .dark .nobackground
+
 ## RTK onkogeense aktivatsiooni mehhanisme
 
 ---
@@ -337,8 +343,8 @@ Tie2
 
 - 1984. aastal avastati, et EGF retseptori (erbB) valgujärestus on homoloogne linnu erütroblastoosi viiruse onkogeeniga v-ErbB.
 
-![](v-erb.jpg)
-<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+![verb](assets/img/v-erb.jpg)
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 
 **N-terminaalne deletsioon põhustab v-ErbB ligand sõltumatu konstitutiivse aktivatsiooni.**
@@ -346,9 +352,9 @@ Tie2
 ---
 ## Mutatsioonid kasvufaktorite retseptorites põhjustavad ligand-sõltumatut aktivatsiooni
 
-![](gf-muts.jpg)
+![gfmuts](assets/img/gf-muts.jpg)
 
-<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 ---
 # TK retseptorid inimese kasvajates
@@ -365,6 +371,7 @@ Ret | GDNF? | **fuusion, punktmutatsioonid** | papillaarsed kilpnäärme kartsin
 FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
 --- &twocol
+
 ## RTK mutatsioonid mao adenokartsinoomides
 
 ***=right
@@ -376,7 +383,7 @@ FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja
 
 ![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170219/bin/nihms627842f5.jpg)
 
-<p style="font-size:12px">doi:10.1038/nature13480</p>
+<footer class="source">doi:10.1038/nature13480</footer>
 
 
 --- &twocol
@@ -384,15 +391,15 @@ FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja
 
 ***=left
 
-<img src="autokriin.jpg" alt="Drawing" style="width: 460px;"/>
+<img src="assets/img/autokriin.jpg" alt="Drawing" style="width: 460px;"/>
 
 Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane) ja selle ligandi $TGF-\alpha$ (roheline).
 
-<p style="font-size:12px">The Biology of Cancer (Garland Science 2007)</p>
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 ***=right
 
-<img src="autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="assets/img/autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
 
 ---
 # Autokriinsed kasvufaktorid inimese vähkides
@@ -413,6 +420,7 @@ TGF-a | EGFR | lamerakuline kopsuvähk, rinna- ja eesnäärme adenokartsinoom, k
 GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 --- &twocol
+
 ## IGF2 amplifikatsioon käärsoole kasvajates
 
 ***=left
@@ -425,7 +433,7 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 ![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
 
-<p style="font-size:12px">doi:10.1038/nature11252</p>
+<footer class="source">doi:10.1038/nature11252</footer>
 
 ---
 ## Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
@@ -436,9 +444,10 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/3/3a/Kaposis_Sarcoma_Lesions.jpg" alt="Drawing" style="width: 400px;"/>
 
-<p style="font-size:12px">Pilt: wikipedia </p>
+<footer class="source">Pilt: wikipedia </footer>
 
 ---
+
 ## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
 
 - **Jak perekond** (*just another kinase; Janus kinase*), seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus (kasvuhormooni retseptor, EPO-R, IFN-R).
@@ -448,17 +457,19 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 - **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
 
 ---
+
 ## Wnt ja TGF-beta radade mutatsioonid käärsoole kasvajates
 
 - Wnt raja retseptor **Frizzled (FZD10)** ~30% juhtudest üle-ekspresseeritud. 
 - **TGF-beta ja Aktiviini** retseptorid muteeritud vastavalt 60% ja 80% juhtudest.
-<p style="font-size:12px">doi:10.1038/nature11252</p>
+<footer class="source">doi:10.1038/nature11252</footer>
 
 
 ![crc](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f4.2.jpg)
 
 
 --- &twocol
+
 ## GPCR
 
 ***=right
@@ -471,6 +482,33 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 ***=left
 
 ![gpcr](http://www.nature.com/nrm/journal/v9/n1/images/nrm2299-f1.jpg)
-<p style="font-size:12px">doi:10.1038/nrm2299</p>
+<footer class="source">doi:10.1038/nrm2299</footer>
+
+--- .segue .dark .nobackground
+
+## Lingid teistele loengutele
+
+--- &twocol 
+
+***=left 
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
 
 
+***=right 
+
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
+- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravimid](http://tpall.github.io/Vahiravim)
