@@ -70,7 +70,7 @@ strong {
 - **Onkogeenide aktivatsioon** on tingitud geneetilistest mutatsioonidest proto-onkogeenides:
     - Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon);
     - Struktuursed (mutatsioonid, kromosomaalsed aberratsioonid).
-- Sellised mutatsioonid viivad muutusteni proto-onkogeeni ekspressioonis või struktuuris. 
+- Sellised mutatsioonid viivad muutusteni protoonkogeeni ekspressioonis või struktuuris. 
 
 ---- 
 ## Retroviraalsete onkogeenide homoloogid inimese kasvajates
