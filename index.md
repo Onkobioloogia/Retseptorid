@@ -2,7 +2,7 @@
 title       : Kasvufaktorid, retseptorid ja vähk
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, Tallinna Tehnikaülikool
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -20,16 +20,20 @@ img {
 </style>
 
 <style> .title-slide {
-  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
-}
+  background-image:url(http://www.theochem.uni-stuttgart.de/kaestner/images_large/egfr_cover.jpg); 
+  background-repeat: no-repeat; 
+  background-position: 0% 0%; 
+  background-size: 100%; 
+  }
 
-.title-slide hgroup > h1{
- font-family: 'Oswald', 'Helvetica', sanserif; 
-}
+.title-slide hgroup > h1 {
+ font-family: 'Oswald', 'Helvetica', sanserif;
+ }
 
 .title-slide hgroup > h1, 
-.title-slide hgroup > h2 {
-  color: #535E43 ;  /* ; #EF5150*/
+.title-slide hgroup > h2,
+.title-slide hgroup > p {
+  color: #000000 ;  /* ; #EF5150*/
 }
 </style>
 
@@ -72,48 +76,31 @@ strong {
     - Struktuursed (mutatsioonid, kromosomaalsed aberratsioonid).
 - Sellised mutatsioonid viivad muutusteni protoonkogeeni ekspressioonis või struktuuris. 
 
----- 
-## Retroviraalsete onkogeenide homoloogid inimese kasvajates
-
-Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
--------|------|----------|----------|----------------------------
-Rousi sarkoom | kana | src | mitte-retseptor TK | käärsoole vähk
-Abelsoni leukeemia | hiir | abl | mitte-retseptor TK | CML
-Lindude erütroblastoos | hiir | erbB | retseptor TK | mao-, kopsu- ja rinnavähk
-McDonough' kassi sarkoom | kass | fms | retseptor TK | AML
-Hardy-Zuckerman kassi viirus | kass | kit | retseptor TK | GI strooma vähk
-Hiire sarkoom 3611 | hiir | raf | Ser/Thr kinaas | kusepõie kartsinoom
-*Simian sarcoma* | ahv | sis | kasvufaktor (PDGF) | erinevad vähid
-Harvey' sarkoom | hiir/rott | H-ras | väike G-valk | kusepõie kartsinoom
-Kirsten'i sarkoom | hiir/rott | K-ras | väike G-valk | erinevad vähid
-Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
-Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
-Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
-
-
 --- .segue .dark .nobackground
-
-## Kasvufaktorite-retseptorite paradigma
+## Kasvufaktorite-retseptorid
 
 
 ---
+## Normaalsed rakkude kasv sõltub rakuvälistest signaalidest
 
-<q>Hulkraksete organismide (*Metazoa*) rakkude ellujäämine, kasv ja jagunemine sõltub rakuvälistest signaalidest.</q>
+<img src="http://www.nature.com/nrm/journal/v2/n2/images/nrm0201_127a_f1.gif" style="width=600px;">
+
+<footer class="source">Pilt: [The ErbB signalling network](http://www.nature.com/nrm/journal/v2/n2/fig_tab/nrm0201_127a_F1.html).  
+</footer>
 
 --- &twocol
-# Wnt/β-kateniin signalisatsioon reguleerib rakkude jagunemist krüptis ja tagab soole mukoosa homeostaasi
+## Normaalse koe arhidektuur sõltub erinevate rakutüüpide vaheliste proportsioonide säilimisest
 
 ***=left
 
-- Käärsoole epiteel koosneb ühest kihist kolumnaarse epiteeli rakkudest (*enterotsüüdid*) ja moodustab iseloomulikud sõrmjad sopistised allolevasse sidekoesse (*lamina proper*).
-- Sõrmjate sopististe põhjas asuvad **soole krüptid**.
-- Igas krüptis asub 6 tüvirakku ja Panethi rakke (peensool) või karikrakke (käärsool). 
-- Rakkude jagunemine toimub ainult krüptis ja diferentseeruvad rakud liiguvad krüptist välja. 
-- **Krüpti ümbritsevad strooma- ja  Panethi rakud sekreteerivad erinevaid Wnt signaaliraja ligande.**
+- Käärsoole epiteel koosneb ühest kihist kolumnaarse epiteeli rakkudest ja moodustab iseloomulikud sõrmjad sopistised e. villiused allolevasse sidekoesse
+- Sõrmjate sopististe põhjas asuvad soole krüptid
+- Igas krüptis asuvad tüvirakud
+- Rakkude jagunemine toimub ainult krüptis ja diferentseeruvad rakud liiguvad krüptist välja
 
 ***=right
 
-<img src="http://www.sciencemag.org/content/307/5717/1904/F1.large.jpg" alt="Wnt" style="width: 400px;"/>
+<img src="http://library.med.utah.edu/WebPath/jpeg4/GI162.jpg" alt="sool" style="width:400px;"/>
 
 --- .segue .dark .nobackground
 ## Türosiin kinaasid signalisatsioonis
@@ -493,8 +480,8 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 ***=left 
 
-- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
-- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
+- [Vähitüübid](http://tpall.github.io/Vahityybid)
 - [Onkoviirused](http://tpall.github.io/Onkoviirused)
 - [Onkogeenid](http://tpall.github.io/Onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
