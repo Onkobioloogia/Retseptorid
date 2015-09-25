@@ -83,7 +83,9 @@ strong {
 ---
 ## Normaalsed rakkude kasv sõltub rakuvälistest signaalidest
 
-<img src="http://www.nature.com/nrm/journal/v2/n2/images/nrm0201_127a_f1.gif" style="width=600px;">
+- Need signaalid on vaja ära tunda ja rakku sisse edastada
+
+<img src="http://www.nature.com/nrm/journal/v2/n2/images/nrm0201_127a_f1.gif" style="width=500px;">
 
 <footer class="source">Pilt: [The ErbB signalling network](http://www.nature.com/nrm/journal/v2/n2/fig_tab/nrm0201_127a_F1.html).  
 </footer>
@@ -93,7 +95,7 @@ strong {
 
 ***=left
 
-- Käärsoole epiteel koosneb ühest kihist kolumnaarse epiteeli rakkudest ja moodustab iseloomulikud sõrmjad sopistised e. villiused allolevasse sidekoesse
+- Käärsoole epiteel koosneb ühest kihist epiteeli rakkudest (enterotsüüdid) ja moodustab iseloomulikud sõrmjad sopistised all olevasse sidekoesse
 - Sõrmjate sopististe põhjas asuvad soole krüptid
 - Igas krüptis asuvad tüvirakud
 - Rakkude jagunemine toimub ainult krüptis ja diferentseeruvad rakud liiguvad krüptist välja
@@ -101,6 +103,46 @@ strong {
 ***=right
 
 <img src="http://library.med.utah.edu/WebPath/jpeg4/GI162.jpg" alt="sool" style="width:400px;"/>
+<img src="/home/taavi/Dropbox/Onkobioloogia/Retseptorid/assets/img/crypt-lineage.jpg" alt="lineage" style="width:400px;"/>
+
+<footer class="source">Pildid: üleval, library.med.utah.edu; all, [The Intestinal Crypt, A Prototype Stem Cell Compartment](http://www.sciencedirect.com/science/article/pii/S0092867413008386).   
+</footer>
+
+---
+## Rakud ei otsusta jagunemist autonoomselt
+
+- Kuigi koekultuuri baassööde sisaldab kõiki elutegevuseks vajalikke toitaineid (aminohapped, vitamiinid, glükoos) ei piisa nende olemasolust, et rakud hakkaksid jagunema
+- Vajalikud on ka kasvufaktorid, mida leidub näiteks seerumis
+
+<img src="assets/img/FBS-prolif.png" alt="FBS" style="width:480px;"/>
+
+<footer class="source">Pilt: seerumi efekt inimese veresoonerakkude jagunemisele.   
+</footer>
+
+---&twocol
+## Fibroblastide jagunemine haava paranemisel sõltub vereliistakute poolt vabastatavast kasvufaktorist
+
+***=left
+- Vereliistaku $\alpha$-graanulid sisaldavad kasvufaktorit PDGF
+
+<img src="http://www.nature.com/nri/journal/v11/n4/images/nri2956-f2.jpg" style="width:300px;">
+
+***=right
+
+- PDGF retseptor on vajalik fibroblastide PDGF-stimuleeritud migratsiooniks ja jagunemiseks
+
+<img src="assets/img/PDGFR-del.jpg" style="width:300px;">
+
+<footer class="source">Pilt: vasak, [Platelets and the immune continuum](http://www.nature.com/nri/journal/v11/n4/fig_tab/nri2956_F2.html); parem, [Deletion of the PDGFR-β Gene Affects Key Fibroblast Functions Important for Wound Healing](http://www.jbc.org/content/280/10/9375.full).   
+</footer>
+
+---
+## Onkogeenid võtavad kasvukontrolli üle
+
+![onkovalgud](http://www.nobelprize.org/nobel_prizes/medicine/laureates/1989/press-2.gif)
+
+<footer class="source">Pilt: Oncogene products are links in signal chains that stretch from the cell surface to the genetic material in the cell nucleus. This chain is composed of (1) growth factors, (2) growth factor receptors, (3) signal transducing proteins in cell membranes, (4) phosphokinases in the cytoplasm and (5) proteins transported from the cytoplasm into the nucleus where they bind to DNA. The localization of different oncogene products (Sis, ErbB, Ras, Src, Myc) is schematically indicated. [Bishop and Varmus, 1989](http://www.nobelprize.org/nobel_prizes/medicine/laureates/1989/press.html)
+</footer>
 
 --- .segue .dark .nobackground
 ## Türosiin kinaasid signalisatsioonis
@@ -119,7 +161,7 @@ strong {
 
 - Src oli esimene onkogeen mis avastati.
 - Src on selgroogsetel väga konserveerunud valk ja seega mitte eriti immuunogeenne.
-- v-Src-i ära tundvad antikehad saadi siiski imetaja troopse RSV-ga indutseeritud kasvajat kandvalt küülikult, 1977. aastal.
+- lõpuks siiki v-Src-i ära tundvad antikehad saadi
 - Src kinaasne aktiivsus avastati kui tema immuuno-sadestus reaktsiooni lisati $[\gamma^{32}P]$ ATP-d (kahtlustati, et Src võiks olla kinaas).
 - Raporteeriti, et Src fosforüleerib treoniine.
 
@@ -128,10 +170,8 @@ strong {
 
 - Enne Src-i oli teada, et kinaasid fosforüleerivad valkudes seriine ja treoniine.
 - 1979. aastal uuris Tony Hunter polüoomiviiruse *middle T* antigeeni ja peale Src-i kinaasse aktiivsuse avastamist tegi ta katse, kas ka middle-T võiks olla kinaas - oli!
-- Saamaks teada, mis middle-T aminohappeid fosforüleeriti tegi ta õhukese kihi kromatograafiat kasutades fosfoseriini ja -treoniini markeritena.
-- Ta kasutas laiskusest oma vana foreesipuhvrit, mille pH oli seistes tõusnud üle algse 1.9.
-- Selgus, et seriini ega treoniini ei fosforüleerita, vaid mingit muud aminohapet, mis osutus hiljem türosiiniks (sisaldab hüdroksüülrühma).
-- Sama lähenemist ("vanandatud"" puhver lahutab treoniini türosiinist) kasutades testis ta ka Src-i kinaasset spetsiifilisust.
+- Selgus, et seriini ega treoniini ei fosforüleerita, vaid mingit muud aminohapet, mis osutus hiljem türosiiniks.
+- Sama lähenemist kasutades testis ta ka Src-i kinaasset spetsiifilisust.
 
 <img src="assets/img/pTyr.jpg" alt="pTyr" style="width: 400px;"/>
 <footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
@@ -144,10 +184,7 @@ strong {
 
 - Kinaasne domään (SH1 - *Src homology 1*)
 - **SH2**, fosfotürosüül peptiide siduv domään
-    - avastati kui Src homoloogia Fujinami sarkoomi viiruse **fes** onkovalgus (tsütoplasma türosiin kinaas); 
 - **SH3**, proliinirikkaid järjestusi siduv domään
-    - avastati kui CT10 linnu sarkoomiviiruse onkogeen **crk** (nimetati SH2 domääni avastaja - Hanafusa labori kodulinna, New York'i, auks kui '*crack*'). Crk on funktsionaalselt **adapter molekul**.
-
 
 ***=right
 
@@ -168,6 +205,16 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Enamus Src-i substraate on seotud adhesiooni ja migratsiooniga.
 - Transformeeriv aktiivsus (stimuleerib rakkude jagunemist) Src-il ilmselt seotud PI3K-Akt aktivatsiooniga.
 - Inimesel siiski Src-i mutatsioone (C-terminaalne trunkatsioon) leitud ainult väiksel osal kaugele arenenud soolekasvajatel. Soolekasvajates ei esine ka c-Src-i amplifikatsioone (TCGA).
+
+---
+## Kinaaside pleiotroopne toime
+
+- Fosforüleerimine põhjustab substraatidel muutuse funktsionaalses staatuses
+- Seriin-treoniin kinaas PKB/Akt reguleerib ellujäämist läbi effektorvalkude aktiveeriva ja inhibeeriva fosforüülimise 
+
+![akt](https://upload.wikimedia.org/wikipedia/en/b/b0/Akt_Phosphorylation_Substrates_Affecting_Apoptosis.png)
+
+<footer class="source">Pilt: [wikipedia](https://en.wikipedia.org/wiki/Akt/PKB_signaling_pathway)
 
 ---
 ## v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
@@ -205,7 +252,9 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 
 ***=right
 
-<img src="http://themedicalbiochemistrypage.org/images/rtk-types.png" alt="Drawing" style="width: 500px;"/>
+<img src="assets/img/rtk-types.jpg" alt="Drawing" style="width: 500px;"/>
+
+<footer class="source">Pilt: [themedicalbiochemistrypage.org](http://themedicalbiochemistrypage.org/signal-transduction.php#rtk)
 
 ---
 # TK retseptorid inimese kasvajates
