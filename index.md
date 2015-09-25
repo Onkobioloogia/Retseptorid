@@ -428,6 +428,14 @@ Näiteks: KIT, VEGFR.
 - **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
 
 ---
+## Janus kinaasi tsütokiini retseptorid
+
+- Jak perekond, seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus 
+    - kasvuhormooni retseptor, EPO-R, IFN-R
+    
+![JAK](https://www.google.ee/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCNXz-6GeksgCFcJUcgodgDQPJw&url=http%3A%2F%2Fwww.nature.com%2Fnri%2Fjournal%2Fv3%2Fn11%2Ffull%2Fnri1226.html&psig=AFQjCNEeziLW3KAnjFFpqVvL57XUKTKtTA&ust=1443272192920370)
+
+---
 ## Wnt ja TGF-$\beta$ radade mutatsioonid käärsoole kasvajates
 
 - Wnt raja retseptor **Frizzled (FZD10)** ~30% juhtudest üle-ekspresseeritud. 
