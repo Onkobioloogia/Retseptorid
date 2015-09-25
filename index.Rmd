@@ -392,6 +392,13 @@ Näiteks: KIT, VEGFR.
 
 ![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914105/bin/nihms219829f2.jpg)
 
+---
+## EGFR dimerisatsioon
+
+![EGFR](assets/img/1-s2.0-S221112471400864X-gr1.jpg)
+
+<footer class="source" >Pilt:Structural View of Ligand-Induced Dimerization of the hEGFR ECR[Bessmann et al.](http://www.sciencedirect.com/science/article/pii/S221112471400864X)</footer>
+
 --- 
 ## RTK kinaasse domääni aktivatsioon
 
@@ -415,7 +422,7 @@ Näiteks: KIT, VEGFR.
 ## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
 
 - **Jak perekond** (*just another kinase; Janus kinase*), seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus (kasvuhormooni retseptor, EPO-R, IFN-R).
-- **TGF-beta retseptorid** (NB! seriin-treoniin kinaasse aktiivsusega), aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise.
+- **TGF-$\beta$ retseptorid** (NB! seriin-treoniin kinaasse aktiivsusega), aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise.
 - **Notch retseptorid**, parakriinse ligandi sidumisel toimub reteptori proteolüütiline aktivatsioon ja Notch ICD (*intracellular domain*) transporditakse tuuma, kus toimib TF-na.
 - **Hedgehog signaalirada**, Patched-Smoothened-Gli, basaalrakuline kartsinoom.
 - **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
