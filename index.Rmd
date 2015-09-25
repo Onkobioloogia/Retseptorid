@@ -255,7 +255,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfo-treoniin ja fosfo-seriin; fosfo-türosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest
 
 ---
-## TK retseptorid inimese kasvajates
+## Retseptor türosiin kinaasid inimese kasvajates
 
 Retseptor | Ligand | Mutatsioon | Vähitüüp
 ----------|---------|------------|---------
@@ -265,11 +265,10 @@ ErbB2/HER2/Neu | NRG, EGF | **üle-ekspressioon** | 30% rinnakartsinoomidest
 ErbB3,4 | erinevad | **üle-ekspressioon** | suuõõne lamerakuline kartsinoom
 Flt-3 | Flt3 ligand (FL) | **tandem duplikatsioon** | äge müelogeenne leukeemia
 Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
-Ret | GDNF? | **fuusion, punktmutatsioonid** | kilpnäärme kartsinoomid, endokriinsed neoplaasiad
+Ret | GDNF | **fuusion, punktmutatsioonid** | kilpnäärme kartsinoomid, endokriinsed neoplaasiad
 FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
 ---- &twocol
-
 ## RTK aktivatsoon
 
 ***=left
