@@ -190,6 +190,8 @@ strong {
 
 <img src="http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f3.gif" alt="Drawing" style="width: 460px;"/>
 
+<img src="http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif" alt="Drawing" style="width: 460px;"/>
+
 ---
 ## v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
 
