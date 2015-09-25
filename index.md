@@ -254,6 +254,27 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 - Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3)
 - Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfo-treoniin ja fosfo-seriin; fosfo-türosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest
 
+--- .segue .dark .nobackground
+## RTK onkogeense aktivatsiooni mehhanisme
+
+---
+## Muteerunud kasvufaktori retseptor võib toimida onkogeenina
+
+- 1984. aastal avastati, et EGF retseptori (erbB) valgujärestus on homoloogne linnu erütroblastoosi viiruse onkogeeniga v-ErbB.
+
+![verb](assets/img/v-erb.jpg)
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
+
+
+**N-terminaalne deletsioon põhustab v-ErbB ligand sõltumatu konstitutiivse aktivatsiooni.**
+
+---
+## Mutatsioonid kasvufaktorite retseptorites põhjustavad ligand-sõltumatut aktivatsiooni
+
+![gfmuts](assets/img/gf-muts.jpg)
+
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
+
 ---
 ## Retseptor türosiin kinaasid inimese kasvajates
 
@@ -268,12 +289,86 @@ Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
 Ret | GDNF | **fuusion, punktmutatsioonid** | kilpnäärme kartsinoomid, endokriinsed neoplaasiad
 FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
+--- &twocol
+
+## RTK mutatsioonid mao adenokartsinoomides
+
+***=right
+
+- Enamus muutusi RTK-s on seotud koopiaarvu muutustega. 
+- Lisaks ka sage VEGFA amplifikatsioon.
+
+***=left
+
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170219/bin/nihms627842f5.jpg)
+
+<footer class="source">doi:10.1038/nature13480</footer>
+
+--- &twocol
+## Kasvajarakud sekreteerivad autokriinseid kasvufaktoreid
+
+***=left
+
+<img src="assets/img/autokriin.jpg" alt="Drawing" style="width: 460px;"/>
+
+Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane) ja selle ligandi $TGF-\alpha$ (roheline).
+
+<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
+
+***=right
+
+<img src="assets/img/autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
+
+---
+# Autokriinsed kasvufaktorid inimese vähkides
+
+Ligand | Retseptor | Vähk
+-------|------------|-----
+HGF | Met | endokriinsed kasvajad, invasiivsed rinna- ja kopsuvähid, osteosarkoom
+IGF2 | IGF-1R | käärsoole kasvajad
+IL-6 | IL6R | müeloom, pea-kaela lamerakuline kartsinoom
+IL-8 | IL8RA | kusepõie kartsinoom
+NRG | HER2/ErbB3 | munasarja kartsinoom
+PDGF-BB | PDGFR | osteosarkoom, glioom
+PDGF-C | PDGFR | Ewingi sarkoom
+PRL (prolaktiin) | PRL-R | rinna kartsinoom
+SCF | KIT | Ewingi sarkoom, väikeserakuline kopsu kartsinoom
+VEGF-A | VEGFR | neuroblastoom, eesnäärme kasvajad, Kaposi sarkoom
+TGF-a | EGFR | lamerakuline kopsuvähk, rinna- ja eesnäärme adenokartsinoom, kõhunäärme kasvaja, mesotelioom
+GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
+
+--- &twocol
+## IGF2 amplifikatsioon käärsoole kasvajates
+
+***=left
+
+- IGF2 geeni sisaldav genoomipiirkond 11p15.5 on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides. 
+- Lisaks on IGF2 üle ekspresseeritud ka muudel põhjustel. 
+- IGF2 või IRS2 (*Insulin receptor substrate 2*-valk mis vahendab insuliini retseptori signaliseerimist PI3K ratta) üleekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
+
+***=right
+
+![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
+
+<footer class="source">doi:10.1038/nature11252</footer>
+
+---
+## Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
+
+
+- Kaposi's sarcomas produce PDGF, TGF-β, IGF-1, angiogenin 2 (Ang2), CCL8, CXCL11, endothelin     and express their receptors. 
+- At the same time, the causal agent of this disease, the human herpesvirus-8 (HHV-8) produces vIL-6 and macrophage inflammatory protein (vMIP).
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/3/3a/Kaposis_Sarcoma_Lesions.jpg" alt="Drawing" style="width: 400px;"/>
+
+<footer class="source">Pilt: wikipedia </footer>
+
 ---- &twocol
 ## RTK aktivatsoon
 
 ***=left
 
-Klassikaliselt toimub see läbi dimeerse ligandi (kasvufaktori) vahendatud retseptori dimerisatsiooni ja sellele järgneva aktivatsiooni.
+Klassikaliselt toimub see läbi dimeerse ligandi (kasvufaktori) vahendatud retseptori dimerisatsiooni ja sellele järgneva trans-fosforülatsiooni
 
 Näiteks: KIT, VEGFR.
 
@@ -299,10 +394,9 @@ Näiteks: KIT, VEGFR.
 ![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914105/bin/nihms219829f2.jpg)
 
 ---
-## EGFR dimeeri rakuvälise domääni ja TGF-a kompleks
+## EGFR dimeeri rakuvälise domääni ja TGF-$\alpha$ kompleks
 
 ![](assets/img/1mox.png)
-
 
 --- bg:gray
 
@@ -368,103 +462,6 @@ Tie2
 
 <footer class="source"> Allosteric, of or involving a change in the shape and activity of an enzyme that results from molecular binding with a regulatory substance at a site other than the enzymatically active one. </footer>
 
---- .segue .dark .nobackground
-
-## RTK onkogeense aktivatsiooni mehhanisme
-
----
-## Muteerunud kasvufaktori retseptor võib toimida onkogeenina
-
-- 1984. aastal avastati, et EGF retseptori (erbB) valgujärestus on homoloogne linnu erütroblastoosi viiruse onkogeeniga v-ErbB.
-
-![verb](assets/img/v-erb.jpg)
-<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
-
-
-**N-terminaalne deletsioon põhustab v-ErbB ligand sõltumatu konstitutiivse aktivatsiooni.**
-
----
-## Mutatsioonid kasvufaktorite retseptorites põhjustavad ligand-sõltumatut aktivatsiooni
-
-![gfmuts](assets/img/gf-muts.jpg)
-
-<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
-
---- &twocol
-
-## RTK mutatsioonid mao adenokartsinoomides
-
-***=right
-
-- Enamus muutusi RTK-s on seotud koopiaarvu muutustega. 
-- Lisaks ka sage VEGFA amplifikatsioon.
-
-***=left
-
-![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170219/bin/nihms627842f5.jpg)
-
-<footer class="source">doi:10.1038/nature13480</footer>
-
-
---- &twocol
-## Kasvajarakud sekreteerivad autokriinseid kasvufaktoreid
-
-***=left
-
-<img src="assets/img/autokriin.jpg" alt="Drawing" style="width: 460px;"/>
-
-Kõrval: Rinnanäärme kartsinoomi rakud ekspresseerivad EGF retseptorit (punane) ja selle ligandi $TGF-\alpha$ (roheline).
-
-<footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
-
-***=right
-
-<img src="assets/img/autokriin2.jpg" alt="Drawing" style="width: 200px;"/>
-
----
-# Autokriinsed kasvufaktorid inimese vähkides
-
-Ligand | Retseptor | Vähk
--------|------------|-----
-HGF | Met | endokriinsed kasvajad, invasiivsed rinna- ja kopsuvähid, osteosarkoom
-IGF2 | IGF-1R | käärsoole kasvajad
-IL-6 | IL6R | müeloom, pea-kaela lamerakuline kartsinoom
-IL-8 | IL8RA | kusepõie kartsinoom
-NRG | HER2/ErbB3 | munasarja kartsinoom
-PDGF-BB | PDGFR | osteosarkoom, glioom
-PDGF-C | PDGFR | Ewingi sarkoom
-PRL (prolaktiin) | PRL-R | rinna kartsinoom
-SCF | KIT | Ewingi sarkoom, väikeserakuline kopsu kartsinoom
-VEGF-A | VEGFR | neuroblastoom, eesnäärme kasvajad, Kaposi sarkoom
-TGF-a | EGFR | lamerakuline kopsuvähk, rinna- ja eesnäärme adenokartsinoom, kõhunäärme kasvaja, mesotelioom
-GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
-
---- &twocol
-
-## IGF2 amplifikatsioon käärsoole kasvajates
-
-***=left
-
-- IGF2 geeni sisaldav genoomipiirkond 11p15.5 on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides. 
-- Lisaks on IGF2 üle ekspresseeritud ka muudel põhjustel. 
-- IGF2 või IRS2 (*Insulin receptor substrate 2*-valk mis vahendab insuliini retseptori signaliseerimist PI3K ratta) üleekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
-
-***=right
-
-![](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f3.2.jpg)
-
-<footer class="source">doi:10.1038/nature11252</footer>
-
----
-## Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
-
-
-- Kaposi's sarcomas produce PDGF, TGF-β, IGF-1, angiogenin 2 (Ang2), CCL8, CXCL11, endothelin     and express their receptors. 
-- At the same time, the causal agent of this disease, the human herpesvirus-8 (HHV-8) produces vIL-6 and macrophage inflammatory protein (vMIP).
-
-<img src="http://upload.wikimedia.org/wikipedia/commons/3/3a/Kaposis_Sarcoma_Lesions.jpg" alt="Drawing" style="width: 400px;"/>
-
-<footer class="source">Pilt: wikipedia </footer>
 
 ---
 
