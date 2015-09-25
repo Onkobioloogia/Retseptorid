@@ -390,20 +390,6 @@ Tie2
 
 <footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
----
-# TK retseptorid inimese kasvajates
-
-Retseptor | Ligand | Mutatsioon | Vähitüüp
-----------|---------|------------|---------
-EGFR/ErbB1 | EGF, TGF-a | **üle-ekspressioon** | mitte väikserakuline kopsuvähk; rinna-, pea-ja kaela-, mao, käärsoole, söögitoru, eesnäärme, kusepõie, neeru, kõhunäärme, munasarja kartsinoomid; glioblastoom
-EGFR/ErbB1 |  | **ektodomääni deletsioon** | glioblastoom, kopsu- ja rinnakartsinoomid
-ErbB2/HER2/Neu | NRG, EGF | **üle-ekspressioon** | 30% rinnakartsinoomidest
-ErbB3,4 | erinevad | **üle-ekspressioon** | suuõõne lamerakuline kartsinoom
-Flt-3 | Flt3 ligand (FL) | **tandem duplikatsioon** | äge müelogeenne leukeemia
-Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
-Ret | GDNF? | **fuusion, punktmutatsioonid** | papillaarsed kilpnäärme kartsinoomid, endokriinsed neoplaasiad 2A ja 2B
-FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
-
 --- &twocol
 
 ## RTK mutatsioonid mao adenokartsinoomides
