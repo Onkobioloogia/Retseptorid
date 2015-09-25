@@ -185,6 +185,7 @@ strong {
 - Kinaasne domään (SH1 - *Src homology 1*)
 - **SH2**, fosfotürosüül peptiide siduv domään
 - **SH3**, proliinirikkaid järjestusi siduv domään
+- Alumine pilt, v-src erineb c-src-st C-terminaalse deletsiooni poolest
 
 ***=right
 
@@ -192,12 +193,7 @@ strong {
 
 <img src="http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif" alt="Drawing" style="width: 460px;"/>
 
----
-## v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
-
-![v-src](http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif)
-
-<footer class="source">Pilt: Nature reviews in medicine.
+<footer class="source">Pilt: Nature reviews in medicine.</footer>
 
 --- &twocol
 ## Kinaasidel on palju rakulisi substraate
