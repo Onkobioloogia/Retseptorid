@@ -453,7 +453,7 @@ Näiteks: KIT, VEGFR.
 
 - TGF-$\beta$ retseptorite aktivatsioon toimub üle tüüp-I ja tüüp-II retseptorite heterodimeriseerumise
 
-![tgfbr](http://www.nature.com/nrrheum/journal/v10/n12/images/nrrheum.2014.137-f4.jpg)
+<img source="http://www.nature.com/nrrheum/journal/v10/n12/images/nrrheum.2014.137-f4.jpg" style="width:480px;">
 
 <footer class="source">Pilt: nature.com</footer>
 
@@ -464,7 +464,7 @@ Näiteks: KIT, VEGFR.
 - Rada toimib $\beta$-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina
 - Wnt rada on oluliselt häiritud soolekasvajates.
 
-![wnt](http://www.nature.com/nrd/journal/v1/n10/images/nrd916-f3.gif)
+<img source="http://www.nature.com/nrd/journal/v1/n10/images/nrd916-f3.gif" style="width:480px;">
 
 <footer class="source">Pilt: nature.com</footer>
 
