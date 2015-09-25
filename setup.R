@@ -7,7 +7,7 @@ library(slidifyLibraries)
 
 setwd("~/Dropbox/Onkobioloogia/Retseptorid/")
 slidify("index.Rmd")
-browseURL("index.html")
+# browseURL("index.html")
 
 # tee githubis sama nimega tühi repo enne publitseerimist
 # publish(repo="Retseptorid", user="tpall")
