@@ -259,13 +259,13 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 
 Retseptor | Ligand | Mutatsioon | Vähitüüp
 ----------|---------|------------|---------
-EGFR/ErbB1 | EGF, TGF-a | **üle-ekspressioon** | mitte väikserakuline kopsuvähk; rinna-, pea-ja kaela-, mao, käärsoole, söögitoru, eesnäärme, kusepõie, neeru, kõhunäärme, munasarja kartsinoomid; glioblastoom
+EGFR/ErbB1 | EGF, TGF-a | **üle-ekspressioon** | erinevad kartsinoomid; glioblastoom
 EGFR/ErbB1 |  | **ektodomääni deletsioon** | glioblastoom, kopsu- ja rinnakartsinoomid
 ErbB2/HER2/Neu | NRG, EGF | **üle-ekspressioon** | 30% rinnakartsinoomidest
 ErbB3,4 | erinevad | **üle-ekspressioon** | suuõõne lamerakuline kartsinoom
 Flt-3 | Flt3 ligand (FL) | **tandem duplikatsioon** | äge müelogeenne leukeemia
 Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
-Ret | GDNF? | **fuusion, punktmutatsioonid** | papillaarsed kilpnäärme kartsinoomid, endokriinsed neoplaasiad 2A ja 2B
+Ret | GDNF? | **fuusion, punktmutatsioonid** | kilpnäärme kartsinoomid, endokriinsed neoplaasiad
 FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
 
 ---- &twocol
