@@ -457,12 +457,17 @@ Näiteks: KIT, VEGFR.
 
 <footer class="source">Pilt: nature.com</footer>
 
----
+---&twocol
 ## Wnt-wingless rada
 
-- Wnt signalisatsoon toimib läbi Frizzled retseptori, 
+***=right
+
+- Wnt signalisatsoon toimib läbi Frizzled retseptori
+- Wnt ligandid on maatriksiga seotud ja pole vabalt diffuseeruvad
 - Rada toimib $\beta$-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina
-- Wnt rada on oluliselt häiritud soolekasvajates.
+- Wnt rada on oluliselt häiritud soolekasvajates
+
+***=left
 
 <img src="http://www.nature.com/nrd/journal/v1/n10/images/nrd916-f3.gif" style="width:480px;">
 
