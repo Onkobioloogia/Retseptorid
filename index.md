@@ -395,59 +395,23 @@ Näiteks: KIT, VEGFR.
 --- 
 ## RTK kinaasse domääni aktivatsioon
 
-- **Kõigi retseptorite kinaasi domäänid (TKD) koosnevad C-terminaalsest ja N-terminaalsest osast ja aktivatsioonilingust**.
+- Kõigi retseptorite kinaasi domäänid (TKD) koosnevad C-terminaalsest ja N-terminaalsest osast ja aktivatsioonilingust
 - Aktiveeritud olekus on erinevate retseptorite TKD struktuurid sarnased.
 - Inaktiivsed domäänid on aga retseptoritel erinevad, peegldades regulatoorset mitmekesisust
       - autoinhibitsioon läbi aktivatsioonilingu,
       - jukstamembranne autoinhibitsioon,
-      - C-terminaalne autoinhibitsioon.
-- Autoinhibitsioon toimib molekuli siseselt (*cis*).
-- Retseptori aktivatsioonil toimub domääni vabastamine autoinhibitoorsest interaktsioonist.
+      - C-terminaalne autoinhibitsioon
+- Autoinhibitsioon toimib molekuli siseselt (*cis*)
+- Retseptori aktivatsioonil toimub domääni vabastamine autoinhibitoorsest interaktsioonist
 
 ---
-## Autoinhibitsioon läbi aktivatsioonilingu
+## Geenifuusionid põhjustavad konstitutiivselt aktiivsete retseptorite tekke
 
-Insuliini retseptor, FGFR
+![ALK](http://media.cellsignal.com/www/images/science/diseases/cancer/proteins/alk-ros1/ros-alk-wb-pathway.gif)
 
-- Insuliini retseptor: **aktivatsioonilingu** türosiin-1162 (Y1162) istub aktiivsaidis ja selle  (pluss veel 2 Tyr) **trans-fosforüleerimine** avab aktiivsaidi ja aktiveerib kinaasi.
-- FGFR1: aktivatsiooniling blokeerib substraadi sidumise saidi, muidu aktivatsioon sarnane.  
-
----
-
-## Jukstamembranne autoinhibitsioon
-
-KIT, PDGFR, FLT3
-
-- Jukstamembraansed (membraani lähedased) järestused interakteeruvad kinaasse domääni erinevate piirkondadega, kaasa arvatud aktivatsiooniling.
-- Retseptori dimeriseerumisel trans-fosforüleeritakse jukstamembraanses osas asuvad türosiinijäägid.
-- KIT ja PDGFR mutatsioonid vähkides jukstamembraanses piirkonnas rikuvad autoinhibitoorsed interaktsioonid ja viivad konstitutiivselt aktiivse retseptori tekkeni. 
-
-----
-
-## C-terminaalne autoinhibitsioon
-
-Tie2
-
-- Kinaasse domääni C-terminaalne saba blokeerib substraadi sidumise saidi.
-- C-terminaalse saba trans-fosforüleerimine vabastab aktiivsaidi.
+<footer class="source" >Pilt: cellsignal.com</footer>
 
 ---
-
-## TKD aktivatsioonil toimib allosteeriline mehhanism
-
-- Autoinhibeeritud TKD nn. "hingavad" ehk inhibitsioon pole absoluutne kuigi tugevas tasakaalus inhibeeritud seisundi poole.
-- Selline madal aktiivsus on piisav, et viia läbi esialgne trans-fosforüleerimine kui kaks retseptorit dimeriseeruvad.
-- Lisaks tekivad retseptorite dimerisatsioonil allosteerilised efektid mis mõjutavad aktiivsaiti.
-
-- EGFR/ErbB perekonna retseptorite aktivatsioonil trans-fosforüleerimist ei toimu.
-    - Dimerisatsioonil, ühe retseptori C-domään ("Aktivaator") seostub teise retseptori N-domääniga ("Ressiiver") ning põhustab allosteerilise mehhanismi kaudu Ressiiver kinaasi konformatsioonimuutuse, mis vabastab monomeeris esineva cis-autoinhibitsiooni.
-- Väikserakulises kopsuvähis esinevad onkogeensed mutatsioonid mis vabastavad EGFR-i cis-autoinhibitsioonist ja põhustavad ligand-sõltumatu aktivatsiooni. 
-
-<footer class="source"> Allosteric, of or involving a change in the shape and activity of an enzyme that results from molecular binding with a regulatory substance at a site other than the enzymatically active one. </footer>
-
-
----
-
 ## Lisaks RTK-le on veel palju erinevaid kasvufaktorite retseptoreid-radu
 
 - **Jak perekond** (*just another kinase; Janus kinase*), seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus (kasvuhormooni retseptor, EPO-R, IFN-R).
