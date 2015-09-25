@@ -447,6 +447,15 @@ Näiteks: KIT, VEGFR.
 <footer class="source">Pilt: nature.com</footer>
 
 ---
+## TGF-$\beta$ retseptorid
+
+- TGF-$\beta$ retseptorid aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise
+
+![tgfbr](http://www.nature.com/nrrheum/journal/v10/n12/images/nrrheum.2014.137-f4.jpg)
+
+<footer class="source">Pilt: nature.com</footer>
+
+---
 ## Wnt ja TGF-$\beta$ radade mutatsioonid käärsoole kasvajates
 
 - Wnt raja retseptor **Frizzled (FZD10)** ~30% juhtudest üle-ekspresseeritud. 
