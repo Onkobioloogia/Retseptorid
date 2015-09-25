@@ -222,16 +222,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 <footer class="source">Pilt: [wikipedia](https://en.wikipedia.org/wiki/Akt/PKB_signaling_pathway)
 
 ---
-## Türosiini kinoom
-
-- Hulkraksete organismide genoomis esindavad türosiin kinaasid ~10–15% kõigist valgu kinaasi geenidest.
-- *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist.
-- Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3).
-- Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfotreoniin ja fosfoseriin; fosfotürosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest.
-
-
----
-## Esimene türosiinkinaas retseptor mis avastati oli EGF retseptor
+## Esimene retseptor-türosiinkinaas mis avastati oli EGF retseptor
 
 - EGF omas proliferatsiooni stimuleerivat toimet erinevatele epiteliaalset päritolu rakkudele.
 - Kuid see toime esines ainult siis kui EGF seostus rakule, viidates rakupinna retseptori olemasolule.
@@ -256,7 +247,15 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 <footer class="source">Pilt: [themedicalbiochemistrypage.org](http://themedicalbiochemistrypage.org/signal-transduction.php#rtk)
 
 ---
-# TK retseptorid inimese kasvajates
+## Türosiini kinoom
+
+- Hulkraksete organismide genoomis esindavad türosiin kinaasid ~10–15% kõigist valgu kinaasi geenidest
+- *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist
+- Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3)
+- Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfo-treoniin ja fosfo-seriin; fosfo-türosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest
+
+---
+## TK retseptorid inimese kasvajates
 
 Retseptor | Ligand | Mutatsioon | Vähitüüp
 ----------|---------|------------|---------
