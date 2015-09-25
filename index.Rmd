@@ -411,8 +411,13 @@ Näiteks: KIT, VEGFR.
 - Autoinhibitsioon toimib molekuli siseselt (*cis*)
 - Retseptori aktivatsioonil toimub domääni vabastamine autoinhibitoorsest interaktsioonist
 
----
+---&twocol
 ## Geenifuusionid põhjustavad konstitutiivselt aktiivsete retseptorite tekke
+
+***=left
+
+- Anaplastic lymphoma kinase (ALK) and c-ros oncogene 1 (ROS1) are related receptor tyrosine kinases (RTKs). ALK and ROS1 have been identified as mutant C-terminal (kinase domain) fusion proteins in research studies of a wide range of human cancers 
+***=right
 
 ![ALK](http://media.cellsignal.com/www/images/science/diseases/cancer/proteins/alk-ros1/ros-alk-wb-pathway.gif)
 
@@ -427,23 +432,29 @@ Näiteks: KIT, VEGFR.
 - **Hedgehog signaalirada**, Patched-Smoothened-Gli, basaalrakuline kartsinoom.
 - **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
 
----
+---&twocol
 ## Janus kinaasi tsütokiini retseptorid
+
+***=left
 
 - Jak perekond, seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus 
     - kasvuhormooni retseptor, EPO-R, IFN-R
+
+***=right
     
-![JAK](https://www.google.ee/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCNXz-6GeksgCFcJUcgodgDQPJw&url=http%3A%2F%2Fwww.nature.com%2Fnri%2Fjournal%2Fv3%2Fn11%2Ffull%2Fnri1226.html&psig=AFQjCNEeziLW3KAnjFFpqVvL57XUKTKtTA&ust=1443272192920370)
+![JAK](assets/img/nri1226-f2.jpg)
+
+<footer class="source">Pilt: nature.com</footer>
 
 ---
 ## Wnt ja TGF-$\beta$ radade mutatsioonid käärsoole kasvajates
 
 - Wnt raja retseptor **Frizzled (FZD10)** ~30% juhtudest üle-ekspresseeritud. 
 - **TGF-beta ja Aktiviini** retseptorid muteeritud vastavalt 60% ja 80% juhtudest.
-<footer class="source">doi:10.1038/nature11252</footer>
-
 
 ![crc](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f4.2.jpg)
+
+<footer class="source">doi:10.1038/nature11252</footer>
 
 ---.segue .dark .nobackground
 
