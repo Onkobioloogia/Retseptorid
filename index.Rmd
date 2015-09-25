@@ -478,13 +478,31 @@ Näiteks: KIT, VEGFR.
 
 <footer class="source">doi:10.1038/nature11252</footer>
 
----
+---&twocol
 ## Notch signaalirada
 
-- Notch retseptorile parakriinse ligandi (Delta) sidumisel toimub reteptori proteolüütiline aktivatsioon $\gamma$-sekretaaside poolt
+***=left
+
+- Notch retseptorile parakriinse ligandi (Delta/Jagged) sidumisel toimub reteptori proteolüütiline aktivatsioon $\gamma$-sekretaaside poolt
 - Notch rakusisene domeen (ICD) transporditakse tuuma, kus toimib TF-na koos koaktivaatoritega
+- Ligand-sõltumatu konstitutiivselt aktiivne Notch signalisasioon toimub u. pooltes T-raku leukeemiates
+
+***=right
 
 <img src="http://www.cell.com/cms/attachment/2007953511/2030539546/gr1.jpg" style="width:480px;">
+
+---&twocol
+## Hedgehog signaalirada
+
+***=left
+
+<img src="http://www.nature.com/nrm/journal/v6/n7/images/nrm1681-i1.jpg" style="width:480px;">
+
+***=right
+
+- Imetajatel: Patched-Smoothened-Gli 
+- Ptc ja Smo mutatsioonid esinevad basaalrakulises kartsinoomis
+- Ptc mutatsioonid medulloblastoomides
 
 ---.segue .dark .nobackground
 ## Rakuvälise maatriksi retseptorid
