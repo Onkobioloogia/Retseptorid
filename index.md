@@ -190,6 +190,13 @@ strong {
 
 <img src="http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f3.gif" alt="Drawing" style="width: 460px;"/>
 
+---
+## v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
+
+![v-src](http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif)
+
+<footer class="source">Pilt: Nature reviews in medicine.
+
 --- &twocol
 ## Kinaasidel on palju rakulisi substraate
 
@@ -215,12 +222,6 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 ![akt](https://upload.wikimedia.org/wikipedia/en/b/b0/Akt_Phosphorylation_Substrates_Affecting_Apoptosis.png)
 
 <footer class="source">Pilt: [wikipedia](https://en.wikipedia.org/wiki/Akt/PKB_signaling_pathway)
-
----
-## v-Src erineb c-Src-ist C-terminaalse deletsiooni jagu
-
-![](http://www.nature.com/nrm/journal/v2/n6/images/nrm0601_467a_f2.gif)
-
 
 ---
 ## Türosiini kinoom
