@@ -478,8 +478,15 @@ Näiteks: KIT, VEGFR.
 
 <footer class="source">doi:10.1038/nature11252</footer>
 
----.segue .dark .nobackground
+---
+## Notch signaalirada
 
+- Notch retseptorile parakriinse ligandi (Delta) sidumisel toimub reteptori proteolüütiline aktivatsioon $\gamma$-sekretaaside poolt
+- Notch rakusisene domeen (ICD) transporditakse tuuma, kus toimib TF-na koos koaktivaatoritega
+
+<img src="http://www.cell.com/cms/attachment/2007953511/2030539546/gr1.jpg" style="width:480px;">
+
+---.segue .dark .nobackground
 ## Rakuvälise maatriksi retseptorid
 
 --- &twocol
