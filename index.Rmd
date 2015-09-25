@@ -416,7 +416,9 @@ Näiteks: KIT, VEGFR.
 
 ***=left
 
-- Anaplastic lymphoma kinase (ALK) and c-ros oncogene 1 (ROS1) are related receptor tyrosine kinases (RTKs). ALK and ROS1 have been identified as mutant C-terminal (kinase domain) fusion proteins in research studies of a wide range of human cancers 
+- Anaplastic lymphoma kinase (ALK) and c-ros oncogene 1 (ROS1) are related receptor tyrosine kinases (RTKs). 
+- ALK and ROS1 have been identified as mutant C-terminal (kinase domain) fusion proteins in research studies of a wide range of human cancers 
+
 ***=right
 
 ![ALK](http://media.cellsignal.com/www/images/science/diseases/cancer/proteins/alk-ros1/ros-alk-wb-pathway.gif)
@@ -438,7 +440,7 @@ Näiteks: KIT, VEGFR.
 ***=left
 
 - Jak perekond, seostuvad tsütokiini ja kasvufaktorite retseptoritele millel endal puudub kinaasne aktiivsus 
-    - kasvuhormooni retseptor, EPO-R, IFN-R
+- Näited: kasvuhormooni retseptor, EPO-R, IFN-R
 
 ***=right
     
@@ -449,9 +451,20 @@ Näiteks: KIT, VEGFR.
 ---
 ## TGF-$\beta$ retseptorid
 
-- TGF-$\beta$ retseptorid aktivatsioon üle tüüp-I (vajab aktivatsiooni) ja tüüp-II (konstitutiivselt aktiivne ser/thr kinaas) retseptorite heterodimeriseerumise
+- TGF-$\beta$ retseptorite aktivatsioon toimub üle tüüp-I ja tüüp-II retseptorite heterodimeriseerumise
 
 ![tgfbr](http://www.nature.com/nrrheum/journal/v10/n12/images/nrrheum.2014.137-f4.jpg)
+
+<footer class="source">Pilt: nature.com</footer>
+
+---
+## Wnt-wingless rada
+
+- Wnt signalisatsoon toimib läbi Frizzled retseptori, 
+- Rada toimib $\beta$-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina
+- Wnt rada on oluliselt häiritud soolekasvajates.
+
+![wnt](http://www.nature.com/nrd/journal/v1/n10/images/nrd916-f3.gif)
 
 <footer class="source">Pilt: nature.com</footer>
 
