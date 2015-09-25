@@ -344,7 +344,7 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 - IGF2 geeni sisaldav genoomipiirkond 11p15.5 on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides. 
 - Lisaks on IGF2 üle ekspresseeritud ka muudel põhjustel. 
-- IGF2 või IRS2 (*Insulin receptor substrate 2*-valk mis vahendab insuliini retseptori signaliseerimist PI3K ratta) üleekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
+- IGF2 või IRS2 (*Insulin receptor substrate 2*) üle-ekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
 
 ***=right
 
@@ -354,7 +354,6 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 ---
 ## Kaposi sarkoomi rakud sekreteerivad mitmeid erinevaid faktoreid
-
 
 - Kaposi's sarcomas produce PDGF, TGF-β, IGF-1, angiogenin 2 (Ang2), CCL8, CXCL11, endothelin     and express their receptors. 
 - At the same time, the causal agent of this disease, the human herpesvirus-8 (HHV-8) produces vIL-6 and macrophage inflammatory protein (vMIP).
@@ -393,21 +392,6 @@ Näiteks: KIT, VEGFR.
 
 ![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914105/bin/nihms219829f2.jpg)
 
----
-## EGFR dimeeri rakuvälise domääni ja TGF-$\alpha$ kompleks
-
-![](assets/img/1mox.png)
-
---- bg:gray
-
-<q>Kõik õnnelikud perekonnad on üksteise sarnased, iga õnnetu perekond on isemoodi õnnetu.</q>
-
-
-
-**Lev Tolstoi**
-
-
-
 --- 
 ## RTK kinaasse domääni aktivatsioon
 
@@ -419,7 +403,6 @@ Näiteks: KIT, VEGFR.
       - C-terminaalne autoinhibitsioon.
 - Autoinhibitsioon toimib molekuli siseselt (*cis*).
 - Retseptori aktivatsioonil toimub domääni vabastamine autoinhibitoorsest interaktsioonist.
-
 
 ---
 ## Autoinhibitsioon läbi aktivatsioonilingu
@@ -474,8 +457,7 @@ Tie2
 - **Wnt signalisatsoon**, Frizzled retseptor, toimib beta-kateniini stabiilsuse ja transkriptsioonilise aktiivsuse kontrollina. Wnt rada on oluliselt häiritud soolekasvajates.
 
 ---
-
-## Wnt ja TGF-beta radade mutatsioonid käärsoole kasvajates
+## Wnt ja TGF-$\beta$ radade mutatsioonid käärsoole kasvajates
 
 - Wnt raja retseptor **Frizzled (FZD10)** ~30% juhtudest üle-ekspresseeritud. 
 - **TGF-beta ja Aktiviini** retseptorid muteeritud vastavalt 60% ja 80% juhtudest.
@@ -484,9 +466,77 @@ Tie2
 
 ![crc](http://www.nature.com/nature/journal/v487/n7407/images/nature11252-f4.2.jpg)
 
+---.segue .dark .nobackground
+
+## Rakuvälise maatriksi retseptorid
 
 --- &twocol
+## Integriinid
 
+***=left
+
+![intg](http://www.nature.com/nrm/journal/v4/n10/images/nrm1229-f1.jpg)
+<footer class="source">doi:10.1038/nrm1229</footer>
+
+***=right
+
+- Rakuvälise maatriksi (**ECM**) retseptorid.
+- Heterodimeerid: 18 $\alpha$- ja  8 $\beta$ -subühikut.
+- Rakkude **adhesioon**, **migratsioon**, **anoikis**.
+- Integriinide tsütoplasmaatilised sabad seovad mitmeid valke, nt. **taliin, vinkuliin, $\alpha$-aktiniin**, mis seostuvad aktiini tsütoskeletile ja seeläbi vahendavad kõiki integriini rakulisi funtsioone.
+- **Seest-välja (*inside-out*) signalisatsioon** reguleerib integriini afiinsust,
+    - integriini subühikute tsütoplasma sabade vaheline interaktsioon takistab aktivatsiooni.
+
+---
+# $\alpha$- ja  $\beta$-subühikute kombinatsioonid tagavad spetsiifilisuse
+
+<img src="http://genomebiology.com/content/figures/gb-2007-8-5-215-1.jpg" alt="Drawing" style="width: 460px;"/>
+
+<footer class="source">doi:10.1186/gb-2007-8-5-215</footer>
+
+---
+# Näited integriinide ECM ligandidest
+
+Integriin | ECM ligand
+----------|-----------
+$\alpha 1\beta 1$ | kollageen, laminiin, vitronektiin, fibronektiin
+$\alpha v\beta 3$ | vitronektiin, fibrinogeen, trombospondiin (angiogenees)
+$\alpha 5\beta 1$ | fibronektiin
+$\alpha 6\beta 1$ | laminiin
+$\alpha 7\beta 1$ | laminiin
+$\alpha 2\beta 3$ | fibrinogeen
+$\alpha 6\beta 4$ | laminiin (epiteliaalsed hemidesmosoomid)
+
+[Ligand-binding specificities of human integrins](http://genomebiology.com/2007/8/5/215/table/T2)
+
+---&twocol
+## Integriinid organiseerivad raku adhesioonid
+
+Rakkude adhesioonid on multivalk kompleksid millel on mehhaanilised ja signaali üle kandvad funktsioonid.
+
+***=left
+
+<img src="http://www.proteinatlas.org/images/6028/if_selected.jpg" style="width: 380px;"/>
+
+
+***=right
+
+<img src="http://www.nature.com/nrm/journal/v6/n1/images/nrm1549-i1.jpg" style="width: 380px;"/>
+
+---&twocol
+## $\beta 1$-integriin vähi arengus
+
+***=left
+
+- $\beta 1$-integriin on hiire rinnavähi mudelis vajalik  kasvaja tekkes ja hilisemas faasis vähirakkude jagunemisvõime säilitamiseks. *Ablation of β1-integrin expression impairs mammary tumorigenesis in MMTV/PyV MT mice*, [doi:10.1016/j.ccr.2004.06.025](http://www.sciencedirect.com/science/article/pii/S1535610804002077) (kõrval olev pilt).
+
+- Inimese vähkides on β1 integriinid üle ekspresseeritud nt. pea-kaela lamerakulises kartsinoomis (*HNSCC*) ja määrab kasvajarakkude resistentsuse radioteraapiale, [doi:10.1172/JCI61350](http://www.jci.org/articles/view/61350).
+
+***=right
+
+<img src="http://ars.els-cdn.com/content/image/1-s2.0-S1535610804002077-gr4.jpg" style="width: 380px;"/>
+
+--- &twocol
 ## GPCR
 
 ***=right
