@@ -103,7 +103,7 @@ strong {
 ***=right
 
 <img src="http://library.med.utah.edu/WebPath/jpeg4/GI162.jpg" alt="sool" style="width:400px;"/>
-<img src="/home/taavi/Dropbox/Onkobioloogia/Retseptorid/assets/img/crypt-lineage.jpg" alt="lineage" style="width:400px;"/>
+<img src="assets/img/crypt-lineage.jpg" alt="lineage" style="width:400px;"/>
 
 <footer class="source">Pildid: üleval, library.med.utah.edu; all, [The Intestinal Crypt, A Prototype Stem Cell Compartment](http://www.sciencedirect.com/science/article/pii/S0092867413008386).   
 </footer>
