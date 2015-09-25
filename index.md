@@ -488,14 +488,14 @@ Tie2
     - integriini subühikute tsütoplasma sabade vaheline interaktsioon takistab aktivatsiooni.
 
 ---
-# $\alpha$- ja  $\beta$-subühikute kombinatsioonid tagavad spetsiifilisuse
+## $\alpha$- ja  $\beta$-subühikute kombinatsioonid tagavad spetsiifilisuse
 
 <img src="http://genomebiology.com/content/figures/gb-2007-8-5-215-1.jpg" alt="Drawing" style="width: 460px;"/>
 
 <footer class="source">doi:10.1186/gb-2007-8-5-215</footer>
 
 ---
-# Näited integriinide ECM ligandidest
+## Integriinide ECM ligandid
 
 Integriin | ECM ligand
 ----------|-----------
