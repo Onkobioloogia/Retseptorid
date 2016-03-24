@@ -532,7 +532,7 @@ Näiteks: KIT, VEGFR.
 ---
 ## $\alpha$- ja  $\beta$-subühikute kombinatsioonid tagavad spetsiifilisuse
 
-<img src="http://genomebiology.com/content/figures/gb-2007-8-5-215-1.jpg" alt="Drawing" style="width: 460px;"/>
+<img src="https://static-content.springer.com/image/art%3A10.1186%2Fgb-2007-8-5-215/MediaObjects/13059_2007_Article_1435_Fig1_HTML.jpg" alt="Drawing" style="width: 460px;"/>
 
 <footer class="source">doi:10.1186/gb-2007-8-5-215</footer>
 
