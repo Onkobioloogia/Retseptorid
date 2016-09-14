@@ -91,7 +91,7 @@ strong {
 </footer>
 
 --- &twocol
-## Normaalse koe arhidektuur sõltub erinevate rakutüüpide vaheliste proportsioonide säilimisest
+## Normaalse koe arhitektuur sõltub erinevate rakutüüpide vaheliste proportsioonide säilimisest
 
 ***=left
 
