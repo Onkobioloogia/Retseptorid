@@ -137,7 +137,7 @@ strong {
 </footer>
 
 ---
-## Onkogeenid võtavad kasvukontrolli üle
+## Onkogeenid võtavad üle kasvukontrolli
 
 ![onkovalgud](http://www.nobelprize.org/nobel_prizes/medicine/laureates/1989/press-2.gif)
 
@@ -145,7 +145,7 @@ strong {
 </footer>
 
 --- .segue .dark .nobackground
-## Türosiin kinaasid signalisatsioonis
+## Türosiin-kinaasid signalisatsioonis
 
 
 --- &twocol
@@ -178,7 +178,7 @@ strong {
 
 
 --- &twocol
-## Src toimib tsütoplasmaatilise türosiin kinaasina
+## Src toimib tsütoplasmaatilise türosiin-kinaasina
 
 ***=left
 
@@ -249,9 +249,9 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 ---
 ## Türosiini kinoom
 
-- Hulkraksete organismide genoomis esindavad türosiin kinaasid ~10–15% kõigist valgu kinaasi geenidest
+- Hulkraksete organismide genoomis esindavad türosiin-kinaasid ~10–15% kõigist valgu kinaasi geenidest
 - *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist
-- Inimesel on neist 90 türosiin kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3)
+- Inimesel on neist 90 türosiin-kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3)
 - Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfo-treoniin ja fosfo-seriin; fosfo-türosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest
 
 --- .segue .dark .nobackground
@@ -276,7 +276,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 <footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 ---
-## Retseptor türosiin kinaasid inimese kasvajates
+## Retseptor türosiin-kinaasid inimese kasvajates
 
 Retseptor | Ligand | Mutatsioon | Vähitüüp
 ----------|---------|------------|---------
