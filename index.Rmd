@@ -403,7 +403,7 @@ Näiteks: KIT, VEGFR.
 
 - Kõigi retseptorite kinaasi domäänid (TKD) koosnevad C-terminaalsest ja N-terminaalsest osast ja aktivatsioonilingust
 - Aktiveeritud olekus on erinevate retseptorite TKD struktuurid sarnased.
-- Inaktiivsed domäänid on aga retseptoritel erinevad, peegldades regulatoorset mitmekesisust
+- Inaktiivses olekus TKD struktuurid aga erinevad, peegldades regulatoorset mitmekesisust:
       - autoinhibitsioon läbi aktivatsioonilingu,
       - jukstamembranne autoinhibitsioon,
       - C-terminaalne autoinhibitsioon
