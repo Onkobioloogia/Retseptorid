@@ -160,10 +160,9 @@ strong {
 ***=right
 
 - Src oli esimene onkogeen mis avastati.
-- Src on selgroogsetel väga konserveerunud valk ja seega mitte eriti immuunogeenne.
-- lõpuks siiki v-Src-i ära tundvad antikehad saadi
+- Src on evolutsiooniliselt konserveerunud valk.
 - Src kinaasne aktiivsus avastati kui tema immuuno-sadestus reaktsiooni lisati $[\gamma^{32}P]$ ATP-d (kahtlustati, et Src võiks olla kinaas).
-- Raporteeriti, et Src fosforüleerib treoniine.
+- Algselt arvati, et Src fosforüleerib treoniine.
 
 ---
 ## Src fosforüleerib türosiine
