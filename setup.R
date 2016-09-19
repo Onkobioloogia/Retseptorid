@@ -11,3 +11,4 @@ slidify("index.Rmd")
 
 # tee githubis sama nimega tühi repo enne publitseerimist
 publish(repo="Retseptorid", user="tpall")
+
