@@ -489,7 +489,8 @@ Näiteks: KIT, VEGFR.
 
 - Notch retseptorile parakriinse ligandi (Delta/Jagged) sidumisel toimub reteptori proteolüütiline aktivatsioon $\gamma$-sekretaaside poolt
 - Notch rakusisene domeen (ICD) transporditakse tuuma, kus toimib TF-na koos koaktivaatoritega
-- Ligand-sõltumatu konstitutiivselt aktiivne Notch signalisasioon toimub u. pooltes T-raku leukeemiates
+- Ligand-sõltumatu konstitutiivselt aktiivne Notch signalisatsioon toimub u. pooltes (56%, [Weng et al., 2004](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1536060/)) T-raku leukeemiates (T-ALL).
+- samas kasvajates nagu HCC, HNSCC jt. toimib Notch tuumorsuppressorina.
 
 ***=right
 
