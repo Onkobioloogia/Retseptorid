@@ -145,7 +145,7 @@ strong {
 </footer>
 
 --- .segue .dark .nobackground
-## Türosiin-kinaasid signalisatsioonis
+## Türosiinkinaasid signalisatsioonis
 
 
 --- &twocol
@@ -248,7 +248,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 ---
 ## Türosiini kinoom
 
-- Hulkraksete organismide genoomis esindavad türosiin-kinaasid ~10–15% kõigist valgu kinaasi geenidest
+- Hulkraksete organismide genoomis esindavad türosiinkinaasid ~10–15% kõigist valgu kinaasi geenidest
 - *C. elegans*-il on **90** TK kokku 454 kinaasist, inimestel **90** TK kokku 525 kinaasi geenist
 - Inimesel on neist 90 türosiin-kinaasist **58 RTK** (neist neljal puudub kinaasne aktiivsus, nt. ErbB3)
 - Enam kui 99% fosfo-aminohapetest on normaalsetes rakkudes fosfo-treoniin ja fosfo-seriin; fosfo-türosiin moodustab 0.05 kuni 0.1% totaalsest fosfo-aminohapetest
@@ -275,7 +275,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 <footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 ---
-## Retseptor türosiin-kinaasid inimese kasvajates
+## Retseptor türosiinkinaasid inimese kasvajates
 
 Retseptor | Ligand | Mutatsioon | Vähitüüp
 ----------|---------|------------|---------
