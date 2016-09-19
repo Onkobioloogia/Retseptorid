@@ -578,6 +578,18 @@ Rakkude adhesioonid on multivalk kompleksid millel on mehhaanilised ja signaali 
 
 <img src="http://ars.els-cdn.com/content/image/1-s2.0-S1535610804002077-gr4.jpg" style="width: 380px;"/>
 
+---
+## FAK vähis
+Fokaalsete adhesioonide kinaas on vähis sageli üle-ekspresseeritud.
+
+![FAK overexpression in cancer](http://www.nature.com/nrc/journal/v14/n9/images_article/nrc3792-f1.jpg)
+
+---
+## FAK vähis
+FAK drives cancer growth and metastasis through kinase-dependent (blue) or kinase-independent (red) functions.
+
+![FAK kinase dependent and independent functions in cancer](http://www.nature.com/nrc/journal/v14/n9/images_article/nrc3792-f2.jpg)
+
 --- &twocol
 ## GPCR
 
