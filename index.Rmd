@@ -265,7 +265,7 @@ SRCil kirjeldatud rohkem kui 50 valgulist substraati
 <footer class="source">The Biology of Cancer (Garland Science 2007)</footer>
 
 
-**N-terminaalne deletsioon põhustab v-ErbB ligand sõltumatu konstitutiivse aktivatsiooni.**
+**N-terminaalne deletsioon põhjustab v-ErbB ligand sõltumatu konstitutiivse aktivatsiooni.**
 
 ---
 ## Mutatsioonid kasvufaktorite retseptorites põhjustavad ligand-sõltumatut aktivatsiooni
