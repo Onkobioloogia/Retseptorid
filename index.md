@@ -584,11 +584,15 @@ Fokaalsete adhesioonide kinaas on vähis sageli üle-ekspresseeritud.
 
 ![FAK overexpression in cancer](http://www.nature.com/nrc/journal/v14/n9/images_article/nrc3792-f1.jpg)
 
+<footer class="source">Pilt: [Nature reviews in cancer](http://www.nature.com/nrc/journal/v14/n9/full/nrc3792.html)</footer>
+
 ---
 ## FAK vähis
 FAK drives cancer growth and metastasis through kinase-dependent (blue) or kinase-independent (red) functions.
 
 ![FAK kinase dependent and independent functions in cancer](http://www.nature.com/nrc/journal/v14/n9/images_article/nrc3792-f2.jpg)
+
+<footer class="source">Pilt: [Nature reviews in cancer](http://www.nature.com/nrc/journal/v14/n9/full/nrc3792.html)</footer>
 
 --- &twocol
 ## GPCR
