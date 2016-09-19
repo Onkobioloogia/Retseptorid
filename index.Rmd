@@ -594,17 +594,14 @@ Rakkude adhesioonid on multivalk kompleksid millel on mehhaanilised ja signaali 
 <footer class="source">doi:10.1038/nrm2299</footer>
 
 --- .segue .dark .nobackground
-
 ## Lingid teistele loengutele
 
 --- &twocol 
 
 ***=left 
 
-- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
-- [Vähitüübid](http://tpall.github.io/Vahityybid)
-- [Onkoviirused](http://tpall.github.io/Onkoviirused)
-- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Sissejuhatav loeng](http://tpall.github.io/onkobioloogia)
+- [Viirused ja onkogeenid](http://tpall.github.io/viirused-ja-onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
 - [Signaalirajad](http://tpall.github.io/Signaalirajad)
 - [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
@@ -620,4 +617,4 @@ Rakkude adhesioonid on multivalk kompleksid millel on mehhaanilised ja signaali 
 - [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
 - [Metastaasid](http://tpall.github.io/Metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
-- [Vähiravimid](http://tpall.github.io/Vahiravim)
+- [Vähiravim](http://tpall.github.io/Vahiravim) 
