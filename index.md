@@ -343,7 +343,7 @@ GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
 
 - IGF2 geeni sisaldav genoomipiirkond 11p15.5 on amplifitseerunud ~7% CRC-s, põhjustades IGF2 üle-ekspressiooni neis vähkides. 
 - Lisaks on IGF2 üle ekspresseeritud ka muudel põhjustel. 
-- IGF2 või IRS2 (*Insulin receptor substrate 2*) üle-ekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
+- IGF2, IRS2 (*Insulin receptor substrate 2*) üle-ekspressioon ja PI3K raja mutatsioonid on üksteist välistavad.
 
 ***=right
 
