@@ -468,9 +468,9 @@ Näiteks: KIT, VEGFR.
 
 ***=left
 
-<img src="http://www.nature.com/nrd/journal/v1/n10/images/nrd916-f3.gif" style="width:480px;">
+<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3331705/bin/cshperspect-WNT-008052_F1.jpg" style="width:480px;">
 
-<footer class="source">Pilt: nature.com</footer>
+<footer class="source">Tumor suppressors and oncogenes in the Wnt pathway. Diagram of a basic Wnt signaling pathway in which oncogenes are depicted in green and tumor suppressors in red. Pilt: [Cold Spring Harbor perspectives in biology](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3331705/)</footer>
 
 ---
 ## Wnt ja TGF-$\beta$ radade mutatsioonid käärsoole kasvajates
