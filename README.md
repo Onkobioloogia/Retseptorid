@@ -1,6 +1,6 @@
 # Retseptorid
 
-Onkobioloogia kursuse 5. loeng.
+2017. sügise Onkobioloogia kursuse 4. loeng.
 
 Pilt: seerumi efekt inimese veresoonerakkude jagunemisele.
 
