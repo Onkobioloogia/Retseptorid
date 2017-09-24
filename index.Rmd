@@ -746,17 +746,6 @@ knitr::include_graphics("http://www.nature.com/nrc/journal/v14/n9/images_article
 
 .footer[Pilt: [Nature Reviews Cancer](http://www.nature.com/nrc/journal/v14/n9/full/nrc3792.html)]
 
----
-
-## FAK vähis
-
-FAK drives cancer growth and metastasis through kinase-dependent (blue) or kinase-independent (red) functions.
-
-```{r,out.width=380,fig.align='center'}
-knitr::include_graphics("http://www.nature.com/nrc/journal/v14/n9/images_article/nrc3792-f2.jpg")
-```
-
-.footer[Pilt: [Nature Reviews Cancer](http://www.nature.com/nrc/journal/v14/n9/full/nrc3792.html)]
 
 ---
 
