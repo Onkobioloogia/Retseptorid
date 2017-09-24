@@ -329,16 +329,20 @@ knitr::include_graphics("assets/img/gf-muts.jpg")
 
 ## Retseptor türosiinkinaasid inimese kasvajates
 
-Retseptor | Ligand | Mutatsioon | Vähitüüp
-----------|---------|------------|---------
-EGFR/ErbB1 | EGF, TGF-a | **üle-ekspressioon** | erinevad kartsinoomid; glioblastoom
-EGFR/ErbB1 |  | **ektodomääni deletsioon** | glioblastoom, kopsu- ja rinnakartsinoomid
-ErbB2/HER2/Neu | NRG, EGF | **üle-ekspressioon** | 30% rinnakartsinoomidest
-ErbB3,4 | erinevad | **üle-ekspressioon** | suuõõne lamerakuline kartsinoom
-Flt-3 | Flt3 ligand (FL) | **tandem duplikatsioon** | äge müelogeenne leukeemia
-Kit | SCF | **aminohappe asendused** | GI strooma kasvajad
-Ret | GDNF | **fuusion, punktmutatsioonid** | kilpnäärme kartsinoomid, endokriinsed neoplaasiad
-FGFR3 | FGF | **üle-ekspressioon, ah asendused** | multimüeloom, kusepõie- ja emakakaela kartsinoomid
+
+```{r}
+tab <- readr::read_delim("Retseptor | Ligand | Mutatsioon | Vähitüüp
+EGFR/ErbB1 | EGF, TGF-a | üleekspressioon | erinevad kartsinoomid; glioblastoom
+EGFR/ErbB1 |  | ektodomääni deletsioon | glioblastoom, kopsu- ja rinnakartsinoomid
+ErbB2/HER2/Neu | NRG, EGF | üleekspressioon | 30% rinnakartsinoomidest
+ErbB3,4 | erinevad | üleekspressioon | suuõõne lamerakuline kartsinoom
+Flt-3 | Flt3 ligand | tandem duplikatsioon | äge müelogeenne leukeemia
+Kit | SCF | aminohappe asendused | GI strooma kasvajad
+Ret | GDNF | fuusion, punktmutatsioonid | kilpnäärme kartsinoomid, endokriinsed neoplaasiad
+FGFR3 | FGF | üleekspressioon, ah asendused | multimüeloom, kusepõie- ja emakakaela kartsinoomid", delim ="|")
+tab <- knitr::kable(tab, format = 'html')
+kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
+```
 
 ---
 
@@ -384,8 +388,8 @@ knitr::include_graphics("assets/img/autokriin2.jpg")
 
 ### Autokriinsed kasvufaktorid inimese vähkides
 
-Ligand | Retseptor | Vähk
--------|------------|-----
+```{r}
+tab <- readr::read_delim("Ligand | Retseptor | Vähk
 HGF | Met | endokriinsed kasvajad, invasiivsed rinna- ja kopsuvähid, osteosarkoom
 IGF2 | IGF-1R | käärsoole kasvajad
 IL-6 | IL6R | müeloom, pea-kaela lamerakuline kartsinoom
@@ -397,7 +401,12 @@ PRL (prolaktiin) | PRL-R | rinna kartsinoom
 SCF | KIT | Ewingi sarkoom, väikeserakuline kopsu kartsinoom
 VEGF-A | VEGFR | neuroblastoom, eesnäärme kasvajad, Kaposi sarkoom
 TGF-a | EGFR | lamerakuline kopsuvähk, rinna- ja eesnäärme adenokartsinoom, kõhunäärme kasvaja, mesotelioom
-GRP (*gastrin-releasing peptide*) | GRP-R | väikeserakuline kopsu kartsinoom
+GRP (gastrin-releasing peptide) | GRP-R | väikeserakuline kopsu kartsinoom", delim ="|")
+tab <- knitr::kable(tab, format = 'html')
+kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
+```
+
+
 
 ---
 
@@ -683,15 +692,20 @@ knitr::include_graphics("https://static-content.springer.com/image/art%3A10.1186
 
 ## Integriinide ECM ligandid
 
-Integriin | ECM ligand
-----------|-----------
-$\alpha 1\beta 1$ | kollageen, laminiin, vitronektiin, fibronektiin
-$\alpha v\beta 3$ | vitronektiin, fibrinogeen, trombospondiin (angiogenees)
-$\alpha 5\beta 1$ | fibronektiin
-$\alpha 6\beta 1$ | laminiin
-$\alpha 7\beta 1$ | laminiin
-$\alpha 2\beta 3$ | fibrinogeen
-$\alpha 6\beta 4$ | laminiin (epiteliaalsed hemidesmosoomid)
+```{r}
+tab <- readr::read_delim("Integriin | ECM ligand
+ $\\alpha 1\\beta 1$ | kollageen, laminiin, vitronektiin, fibronektiin
+$\\alpha v\\beta 3$ | vitronektiin, fibrinogeen, trombospondiin (angiogenees)
+$\\alpha 5\\beta 1$ | fibronektiin
+$\\alpha 6\\beta 1$ | laminiin
+$\\alpha 7\\beta 1$ | laminiin
+$\\alpha 2\\beta 3$ | fibrinogeen
+$\\alpha 6\\beta 4$ | laminiin (epiteliaalsed hemidesmosoomid)", delim ="|")
+tab <- knitr::kable(tab, format = 'html')
+kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
+```
+
+<br>
 
 [Ligand-binding specificities of human integrins](http://genomebiology.com/2007/8/5/215/table/T2)
 
