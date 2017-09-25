@@ -26,13 +26,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada
 - Vähkides on onkogeen muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
-- **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
+- **Protoonkogeen** on normaalne geen mis võib muutuda onkogeeniks.
 
 ---
 
 ## Onkogeenide aktivatsioon
 
-- **Onkogeenide aktivatsioon** on tingitud geneetilistest mutatsioonidest proto-onkogeenides:
+- **Onkogeenide aktivatsioon** on tingitud geneetilistest mutatsioonidest protoonkogeenides:
 
     - Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon);
     
