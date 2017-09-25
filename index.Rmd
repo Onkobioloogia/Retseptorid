@@ -165,6 +165,8 @@ knitr::include_graphics("assets/img/pp60src.png")
 
 - Src kinaasne aktiivsus avastati kui tema immuunosadestus reaktsiooni lisati $[\gamma^{32}P]$ ATP-d (kahtlustati, et Src võiks olla kinaas).
 
+- Selgus, et src forsorüleeris immuunosadestueks kasutatavat antikeha...
+
 - Algselt arvati, et Src fosforüleerib treoniine.
 ]
 
